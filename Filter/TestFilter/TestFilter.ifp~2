@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Project AllowEditFromSolution="Y" CheckedInChangeSetsSinceGetLatest="" Connect="version 5.4.1__5" HybridFlag="N" ImportsClassType="com.acquire.intelligentforms.entities.mapping.ImportRecordRoot" ImportsName="Import Records Root" Name="TestFilter" ProjectExtension=".ifp" ProjectFolder="D:/WorkSpace/BOS/Filter/TestFilter" ProjectType="N" eid="B0C2E252A313E33B153">
+  <Types Name="Types Root" eid="B0C2E252A313E33B155">
+    <Lists Name="Lists" eid="B0C2E252A313E33B206"/>
+    <DataTypes Name="Data Types" eid="B0C2E252A313E33B207">
+      <DataType Name="Text" eid="B0C2E252A313E33B208"/>
+      <DataType Name="Number" Type="Number" eid="B0C2E252A313E33B209"/>
+      <DataType Name="Decimal" Type="Decimal" eid="B0C2E252A313E33B210"/>
+      <DataType Name="Date" Type="Date" eid="B0C2E252A313E33B211"/>
+      <DataType Name="File" Type="File" eid="B0C2E252A313E33B212"/>
+      <CustomType MaxFieldLength="60" MinFieldLength="0" Name="Email" RegularExpression="^([a-zA-Z0-9_\.\-]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$" Type="Text" ValidationType="Regular Expression" eid="B0C2E252A313E33B213"/>
+    </DataTypes>
+    <Structures Name="Data Structures" eid="B0C2E252A313E33B214"/>
+  </Types>
+  <Dictionary Name="B0C2E252A313E33B DataDictionary 1" eid="B0C2E252A313E33B156">
+    <PropertyGroup Name="Data Store Root" eid="B0C2E252A313E33B158">
+      <Property Name="WSACookie" eid="B0C2E252A313E33B592"/>
+    </PropertyGroup>
+  </Dictionary>
+  <DataMapping Name="Integration Root" eid="B0C2E252A313E33B162">
+    <DataSource ClassType="com.acquire.intelligentforms.entities.log.DebugLogDataSource" FileName="logs/Debug.log" FileRotation="New log file at file size limit" Name="Connect DebugLog" NewPerSize="512" eid="B0C2E252A313E33B218"/>
+    <DataSource ClassType="com.acquire.intelligentforms.entities.log.SyserrLogDataSource" FileName="logs/Syserr.log" FileRotation="New log file each session" Name="Connect SyserrLog" NewPerSize="512" eid="B0C2E252A313E33B219"/>
+    <DataSource ClassType="com.acquire.intelligentforms.entities.log.SysoutLogDataSource" FileName="logs/Sysout.log" FileRotation="New log file each session" Name="Connect SysoutLog" NewPerSize="512" eid="B0C2E252A313E33B220"/>
+    <DataSource ClassType="com.acquire.intelligentforms.entities.log.SecurityLogDataSource" FileName="logs/Security.log" FileRotation="New log file at file size limit" Name="Connect SecurityLog" NewPerSize="512" eid="B0C2E252A313E33B221"/>
+  </DataMapping>
+  <Rules Name="Rules Root" eid="B0C2E252A313E33B160"/>
+  <Products Name="Processes Root" eid="B0C2E252A313E33B164">
+    <Product Name="AddSecurityHeader" eid="B0C2E252A313E33B543">
+      <Phase Name="Login" OutputPhaseToFile="N" StaticPhase="N" eid="B0C2E252A313E33B548">
+        <Button ActionCommand="Login" CheckMandatoryFields="N" DependencyType="Previous questions in phase" Name="B0C2E252A313E33B FormButton 1" eid="B0C2E252A313E33B571">
+          <Rule FromType="Value" FromValue="WSACookie" HttpSessionVariableName="WSACookie" Name="Set Value" RuleClassName="com.acquire.intelligentforms.rules.SetValueRule" RuleDisabled="N" Trim="N" Type="Http Session Variable" eid="B0C2E252A313E33B583"/>
+          <Rule Name="Goto Phase" OperationType="Go Forward to a Named Phase" Phase="AddSecurityHeader.Home Page" RuleClassName="com.acquire.intelligentforms.rules.GotoRule" RuleDisabled="N" eid="B0C2E252A313E33B586"/>
+        </Button>
+      </Phase>
+      <Phase Name="Home Page" OutputPhaseToFile="N" StaticPhase="N" eid="B0C2E252A313E33B559">
+        <Rule FromType="Value" FromValue="$$HTTP_HEADER.cookie$" Name="Set Value" PropertyName="WSACookie" RuleClassName="com.acquire.intelligentforms.rules.SetValueRule" RuleDisabled="N" RuleType="PrePhase" Trim="N" Type="Data Item" eid="B0C2E252A313E33B598"/>
+        <Heading HeaderText="Logged In" Name="B0C2E252A313E33B Heading 1" eid="B0C2E252A313E33B576"/>
+      </Phase>
+    </Product>
+  </Products>
+  <PresentationTypes Name="Presentation Types Root" eid="B0C2E252A313E33B166">
+    <PresentationType ClassType="com.acquire.intelligentforms.entities.presentation.html.waihtml.richhtml.RichHTMLPresentationType" EditTheme="N" EntityEID="B0C2E252A313E33B164" MessagesOrder="Errors, Warnings, Info" MessagesSeparator="&lt;br/&gt;" Name="Test" PresentationDefinitionClassType="com.acquire.intelligentforms.entities.presentation.html.waihtml.richhtml.RichHTMLPresentationDefinition" QuestionListDefault="- Please Select" UseOptimised="N" UseTracking="N" eid="B0C2E252A313E33B533">
+      <PresentationProduct ClassType="com.acquire.intelligentforms.entities.presentation.html.waihtml.richhtml.RichHTMLPresentationProduct" EntityClassType="com.acquire.intelligentforms.entities.Product" EntityEID="B0C2E252A313E33B543" Name="B0C2E252A313E33B RichHTMLPresentationProduct 3" RuntimeId="B0C2E252A313E33B544" TabPaneStyle="Use Default" eid="B0C2E252A313E33B544">
+        <PresentationPhase ClassType="com.acquire.intelligentforms.entities.presentation.html.waihtml.richhtml.RichHTMLPresentationPhase" EntityClassType="com.acquire.intelligentforms.entities.Phase" EntityEID="B0C2E252A313E33B548" Name="B0C2E252A313E33B RichHTMLPresentationPhase 4" RuntimeId="B0C2E252A313E33B551" eid="B0C2E252A313E33B551">
+          <PresentationButton ClassType="com.acquire.intelligentforms.entities.presentation.html.waihtml.richhtml.RichHTMLPresentationButton" ColumnHeadingJustification="Left" EntityClassType="com.acquire.intelligentforms.entities.FormButton" EntityEID="B0C2E252A313E33B571" Name="B0C2E252A313E33B RichHTMLPresentationButton 6" RuntimeId="BUT_B0C2E252A313E33B572" eid="B0C2E252A313E33B572"/>
+        </PresentationPhase>
+        <PresentationPhase ClassType="com.acquire.intelligentforms.entities.presentation.html.waihtml.richhtml.RichHTMLPresentationPhase" EntityClassType="com.acquire.intelligentforms.entities.Phase" EntityEID="B0C2E252A313E33B559" Name="B0C2E252A313E33B RichHTMLPresentationPhase 7" RuntimeId="B0C2E252A313E33B562" eid="B0C2E252A313E33B562">
+          <PresentationQuestion ClassType="com.acquire.intelligentforms.entities.presentation.html.waihtml.richhtml.RichHTMLPresentationQuestion" ColumnHeadingJustification="Left" EntityClassType="com.acquire.intelligentforms.entities.Heading" EntityEID="B0C2E252A313E33B576" FieldSize="15" Name="B0C2E252A313E33B RichHTMLPresentationQuestion 7" NumberOfRows="5" RuntimeId="HEAD_B0C2E252A313E33B577" eid="B0C2E252A313E33B577"/>
+        </PresentationPhase>
+      </PresentationProduct>
+    </PresentationType>
+  </PresentationTypes>
+  <EVANotes Name="Note Root" eid="B0C2E252A313E33B168">
+    <EVANoteDefinition Name="ToDo" NoteName="ToDo" StatusRequired="Y" eid="B0C2E252A313E33B215"/>
+    <EVANoteDefinition Name="Specification" NoteName="Specification" StatusRequired="N" eid="B0C2E252A313E33B216"/>
+    <EVANoteDefinition Name="Comment" NoteName="Comment" StatusRequired="N" eid="B0C2E252A313E33B217"/>
+  </EVANotes>
+  <LanguageMapDefinitionsRoot Name="Languages Root" eid="B0C2E252A313E33B170"/>
+  <CordovaPluginsRoot Name="CordovaPlugins Root" eid="B0C2E252A313E33B174"/>
+</Project>

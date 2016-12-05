@@ -1,0 +1,1760 @@
+[2016-10-17 17:20:20.646], ==============================================
+[2016-10-17 17:20:20.647], ['DEBUG_4' 'null' 'none' 'none' 'none' 'none'], Query String null
+[2016-10-17 17:20:20.666], ==============================================
+[2016-10-17 17:20:20.666], ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Mode: XX
+[2016-10-17 17:20:20.667], ==============================================
+[2016-10-17 17:20:20.667], ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Page Requested: null, Current Session Page: 0
+[2016-10-17 17:20:20.667], ==============================================
+[2016-10-17 17:20:20.667], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Product Requested: 
+[2016-10-17 17:20:20.668], ==============================================
+[2016-10-17 17:20:20.668], ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Presentation Type Requested: 
+[2016-10-17 17:20:20.673], ==============================================
+[2016-10-17 17:20:20.673], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: DEVICE_INFO, Values: 
+[2016-10-17 17:20:20.674], ==============================================
+[2016-10-17 17:20:20.674], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: BROWSER_FEATURES, Values: flexbox:1|canvas:1|canvastext:1|webgl:1|touch:0|geolocation:1|postmessage:1|websqldatabase:0|indexeddb:1|hashchange:1|history:1|draganddrop:1|websockets:1|rgba:1|hsla:1|multiplebgs:1|backgroundsize:1|borderimage:1|borderradius:1|boxshadow:1|textshadow:1|opacity:1|cssanimations:1|csscolumns:1|cssgradients:1|cssreflections:0|csstransforms:1|csstransforms3d:1|csstransitions:1|fontface:1|generatedcontent:1|video:/ogg:0/h264:1/webm:0|audio:/ogg:0/mp3:1/wav:0/m4a:1|localstorage:1|sessionstorage:1|webworkers:1|applicationcache:1|svg:1|inlinesvg:1|smil:0|svgclippaths:1|input:/autocomplete:1/autofocus:1/list:1/placeholder:1/max:1/min:1/multiple:1/pattern:1/required:1/step:1|inputtypes:/search:1/tel:1/url:1/email:1/datetime:0/date:0/month:0/week:0/time:0/datetime-local:0/number:1/range:1/color:0|adownload:0|audiodata:1|webaudio:0|battery:0|details:0;
+[2016-10-17 17:20:20.675], ==============================================
+[2016-10-17 17:20:20.675], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: PRESENTATION_TYPE, Values: 
+[2016-10-17 17:20:20.675], ==============================================
+[2016-10-17 17:20:20.675], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: DEVICE_SIZE_INFO, Values: {"screenWidth":"1536","screenHeight":"826","documentWidth":"1536","documentHeight":"770","bodyWidth":"1536","bodyHeight":"234","windowWidth":"1536","windowHeight":"770","screenOrientation":"L"}
+[2016-10-17 17:20:20.676], ==============================================
+[2016-10-17 17:20:20.676], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: MODE, Values: XX
+[2016-10-17 17:20:20.676], ==============================================
+[2016-10-17 17:20:20.676], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: PRODUCT, Values: 
+[2016-10-17 17:20:20.680], ==============================================
+[2016-10-17 17:20:20.680], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Setting up new session.
+[2016-10-17 17:20:20.681], ==============================================
+[2016-10-17 17:20:20.681], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Setting up session info.
+[2016-10-17 17:20:20.681], ==============================================
+[2016-10-17 17:20:20.681], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Presentation Type Name: Test
+[2016-10-17 17:20:20.681], ==============================================
+[2016-10-17 17:20:20.681], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:20:20.682], ==============================================
+[2016-10-17 17:20:20.682], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'none' 'none' 'none'], Product Name: AddSecurityHeader
+[2016-10-17 17:20:20.718], ==============================================
+[2016-10-17 17:20:20.719], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : usePushNotifications
+[2016-10-17 17:20:20.719], ==============================================
+[2016-10-17 17:20:20.719], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:20:20.720], ==============================================
+[2016-10-17 17:20:20.720], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode for Security called: p_applicationMode=XX
+[2016-10-17 17:20:20.766], ==============================================
+[2016-10-17 17:20:20.767], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:20:20.767], ==============================================
+[2016-10-17 17:20:20.767], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode called: p_applicationMode=XX
+[2016-10-17 17:20:20.774], ==============================================
+[2016-10-17 17:20:20.774], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:20:20.786], ==============================================
+[2016-10-17 17:20:20.786], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Showing phase name: AddSecurityHeader.Login
+[2016-10-17 17:20:20.994], ==============================================
+[2016-10-17 17:20:20.995], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : isHybrid
+[2016-10-17 17:20:21.038], ==============================================
+[2016-10-17 17:20:21.039], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : isHybrid
+[2016-10-17 17:20:21.046], ==============================================
+[2016-10-17 17:20:21.046], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none' 'Phase Description'], 
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ * $RCSfile: edge IPK branded.tpl,v $
+ * $Author: europe\aheath $
+ * $Revision: 1.21 $
+ * $Date: 2015/07/14 13:09:49 $
+-->
+  <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta name="author" content="Edge IPK"/>
+      <title>Temenos Rich HTML </title>
+                <style type='text/css'>.accessibilityStyle { position:absolute !important; width:0 !important; height:0 !important; font-size:0 !important; overflow:hidden !important;padding:0 !important} *[align="right"]  { text-align: right; }  *[align="left"]   { text-align: left;  }  *[align="center"] { text-align: center;} </style><style type='text/css'>.ecDIB {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;vertical-align: top;}.ecDIBCol {vertical-align: top;}</style>
+<link id='maincss' title='maincss' rel='stylesheet' type='text/css' href='./html/css/Default.css?1476696021033' />
+
+<script type="text/javascript">
+//<![CDATA[
+var controllerMode = 'XX';
+var pageCode = '&x6471ac21-9b31-4cc8-8568-1398276955af=36b0e3ab-f51f-42b2-a9fe-1de6552f9bcb';
+var rootContext = '/TestFilter';
+var act = '/TestFilter/servletcontroller';
+var popupAct = '/TestFilter/servletcontroller';
+var session = new Array();
+var checkbox = new Array();
+var activeTabName = '';
+var rowClickedIds = new Array();
+var calendarComponents = new Array();
+var submitEnabled = true;
+var enabledControls = new Array();
+var enabledLinks = new Array();
+var forwardsConfirmMsg = '';
+var backConfirmMsg = '';
+var hasSubmitted = false;
+var keyspressed = '';
+var qlrOk = 'Y';
+var invalidQuestions = new Array();
+var calendarPagePath = '/TestFilter/html/calendar.html';
+var calendarPopup = '	<div id="toolbar" onmouseover="this.style.cursor = \'pointer\'" style="height: 20px; width:197px;  ">		<div style="height: 20px; background: rgb(126, 192, 233) url(/TestFilter/images/toolBarBlueGradient.gif) repeat-x scroll 0% 0%; float: left; width: 175px; " onmousedown="try {dragStart(event, \'FloatCalendarDiv\');} catch (e){}">&nbsp;<\\/div>		<div style="background-color: #ffffff;border-top: 2px solid rgb(170, 220, 250); border-right: 2px solid rgb(126, 192, 233); float: left; color: rgb(126, 192, 233); font-family: Arial; text-align: center; width: 20px; height: 18px;" onclick="parentNode.parentNode.style.display = \'none\';" >X<\\/div>		<div style="clear: both"><\\/div>	<\\/div>	<div style="color: #4444BB; font-family: Arial; height:92%; width:100%;">		<iframe id="calendarIframe"  src="javascript:false;" style="height:100%; width:100%; color: #FFFFFF;" scrolling="no" frameBorder="0"			>		    <p>Your browser does not support iframes.<\\/p>		<\\/iframe>	<\\/div>';
+var helpPagePath = '/TestFilter/html/help.html';
+var imageDirPath = '/TestFilter/images/';
+var popupParams = '';
+var clientSideValidation = true;
+var calendars = [];
+var currentX = 390;
+var currentY = 650;
+var SORT_COLUMN_INDEX;
+var CURRENT_YEAR = 2016;
+var CURRENT_THEME = '';
+var focusValue = '';
+var MessagePosition = 'After Answer';
+var MessageTargetId = '';
+var InfoMessagePosition = 'Do Not Show';
+var InfoMessageTargetId = '';
+var WarningMessagePosition = 'Do Not Show';
+var WarningMessageTargetId = '';
+var ShowOneMessage = 'Y';
+var MessagesSeparator = '<br/>';
+var MessagesOrder = 'Errors, Warnings, Info';
+var MandMessage = 'Please answer all the required questions marked with a $$QUESTION_CONSTRAINT$';
+var ValidationMessage = 'Please enter a valid value';
+var InvalidUploadTypeMessage = 'The valid file types you are allowed to upload are: $$QUESTION_CONSTRAINT$';
+var InvalidMaxFileSizeMessage = 'The maximum file size allowed is $$QUESTION_CONSTRAINT$k';
+var InvalidAlphaNumericMessage = 'Please re-enter using letters and numbers';
+var InvalidAlphaMessage = 'Please re-enter using letters';
+var InvalidNumMessage = 'Please enter a valid number';
+var InvalidDecimalMessage = 'Please enter a valid decimal number';
+var InvalidDateMessage = 'Please enter a valid date in the form: $$QUESTION_CONSTRAINT$';
+var InvalidTimeMessage = 'Please enter a valid time in the form: $$QUESTION_CONSTRAINT$';
+var InvalidMaxValueMessage = 'The maximum value is $$QUESTION_CONSTRAINT$';
+var InvalidMinValueMessage = 'The minimum value is $$QUESTION_CONSTRAINT$';
+var InvalidMaxLengthMessage = 'The maximum length is $$QUESTION_CONSTRAINT$';
+var InvalidMinLengthMessage = 'The minimum length is $$QUESTION_CONSTRAINT$';
+var InvalidDaysInMonthMessage = 'There are not that many days in the specified month';
+var InvalidLeapYearMessage = 'The specified year is not a leap year';
+var InvalidMaxDateMessage = 'The latest date is $$QUESTION_CONSTRAINT$';
+var InvalidMinDateMessage = 'The earliest date is $$QUESTION_CONSTRAINT$';
+//]]>
+</script>
+
+<script type="text/javascript" src="/TestFilter/html/js/calendar1.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/jsep.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/spellcheck-caller.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_ajax.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_transferable_list.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_validation.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_help.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_divs.js?version_5.4.1__5"></script>
+
+
+        
+
+    </head>
+    <body style="margin:0px;" class="BrowserWindow">
+
+
+        <!-- UNCOMMENT IFRAME IF USING AUTOCOMPLETE - PROVIDES WORK-AROUND FOR IE6 ISSUE -->
+    <!--iframe id="ec_suggest_iframe" style="position:absolute; left:0; top:0px; width:0px; height: 0px; " ></iframe-->
+    <form id="form1" method="post" action="servletcontroller" onsubmit="return false;">
+      <div><input type="hidden" name="MODE"/></div>
+      
+      	<div><input type="hidden" name="x6471ac21-9b31-4cc8-8568-1398276955af" value="36b0e3ab-f51f-42b2-a9fe-1de6552f9bcb"/></div>
+      
+      <div><input type="hidden" name="MENUSTATE"/></div>
+
+	 <!-- don't show the branding in a popup -->
+	    <div style="background-image: url(/TestFilter/images/edgeBanner.jpg); width: 100%; height: 150px"></div>
+	
+      <!-- To center the contents of your form, set style="text-align:center;" on the form tag (works in IE), 
+          and style="margin-left:auto; margin-right:auto;" on the following table (works in Mozilla) -->
+          
+              <div style="width: 100%">
+                      
+                      
+          
+             <div style="display: none;"><input type="hidden" name="DEVICE_SIZE_INFO" value=""/></div><div style="clear: both" class="GlobalFont Color1  " id="EDGE_CONNECT_PROCESS"><div style="clear: both; width: 100%"></div><div style="clear: both" id="EDGE_CONNECT_PHASE"><div style="clear: both; width: 100%"><div style="clear: left;" id="row_BUT_B0C2E252A313E33B572"><div id="p1_BUT_B0C2E252A313E33B572" style="float: left;width: 48%;"><div style="padding: 4px">&nbsp;</div></div><div id="p2_BUT_B0C2E252A313E33B572" style="float: left;width: 2%;"><div style="padding: 4px">&nbsp;</div></div><div id="p3_BUT_B0C2E252A313E33B572" style="float: left;width: 1%;"><div style="padding: 4px">&nbsp;</div></div><div style="text-align: left; width: 49%;  float: left;  " id="p4_BUT_B0C2E252A313E33B572"><div style="padding: 4px"><button title="Login" onclick="return buttonClicked('__B0C2E252A313E33B FormButton 1', false, null, '', false, 'BUT_B0C2E252A313E33B572', true, false, '', true, true, 'preInPhase');" type="button" name="__B0C2E252A313E33B FormButton 1" onmouseover="this.style.cursor='pointer'" value="Login" class="Color1 RightAlignedImage ActionArrow" id="BUT_B0C2E252A313E33B572">Login</button></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div>
+          
+                
+                    <div style="clear:both"></div>
+                
+              </div>
+               
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+
+forwardsConfirmMsg="";
+backConfirmMsg="";
+MANDCHAR='*';
+
+function initForm(p_namespace) {
+if ( null == p_namespace ) p_namespace = '';
+if ( beforeInitForm(p_namespace) == false ) return ;
+showECForm(p_namespace);
+showServerSideValidationMessagesPopup(p_namespace);
+afterInitForm(p_namespace);
+}
+var tid = setInterval( function () { 
+    if ( document.readyState !== 'complete' ) return; 
+    clearInterval( tid );   
+    initForm('');
+
+}, 100 );
+
+function showECForm(p_ns){
+}
+function hideECForm(p_ns, p_mode, p_scroll, p_id){
+return true;}
+//]]>
+
+</script>
+
+
+
+  
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+
+</script>
+</body>
+</html>
+
+
+
+[2016-10-17 17:20:21.049], ==============================================
+[2016-10-17 17:20:21.050], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Application Server session timeout set to: 1800
+[2016-10-17 17:20:23.958], ==============================================
+[2016-10-17 17:20:23.958], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Query String null
+[2016-10-17 17:20:23.959], ==============================================
+[2016-10-17 17:20:23.959], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Mode: __B0C2E252A313E33B FormButton 1
+[2016-10-17 17:20:23.960], ==============================================
+[2016-10-17 17:20:23.960], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Page Requested: 0, Current Session Page: 0
+[2016-10-17 17:20:23.960], ==============================================
+[2016-10-17 17:20:23.960], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Product Requested: null
+[2016-10-17 17:20:23.960], ==============================================
+[2016-10-17 17:20:23.960], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Presentation Type Requested: null
+[2016-10-17 17:20:23.961], ==============================================
+[2016-10-17 17:20:23.961], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: MENUSTATE, Values: 
+[2016-10-17 17:20:23.961], ==============================================
+[2016-10-17 17:20:23.962], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: x6471ac21-9b31-4cc8-8568-1398276955af, Values: 36b0e3ab-f51f-42b2-a9fe-1de6552f9bcb
+[2016-10-17 17:20:23.962], ==============================================
+[2016-10-17 17:20:23.962], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: DEVICE_SIZE_INFO, Values: 
+[2016-10-17 17:20:23.962], ==============================================
+[2016-10-17 17:20:23.963], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: MODE, Values: __B0C2E252A313E33B FormButton 1
+[2016-10-17 17:20:23.963], ==============================================
+[2016-10-17 17:20:23.963], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : usePushNotifications
+[2016-10-17 17:20:23.964], ==============================================
+[2016-10-17 17:20:23.964], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = null
+[2016-10-17 17:20:23.964], ==============================================
+[2016-10-17 17:20:23.964], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode for Security called: p_applicationMode=__B0C2E252A313E33B FormButton 1
+[2016-10-17 17:20:23.967], ==============================================
+[2016-10-17 17:20:23.968], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = null
+[2016-10-17 17:20:23.968], ==============================================
+[2016-10-17 17:20:23.968], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode called: p_applicationMode=__B0C2E252A313E33B FormButton 1
+[2016-10-17 17:20:23.969], ==============================================
+[2016-10-17 17:20:23.969], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'none'], Button/Nav Item/Breadcrumb with name B0C2E252A313E33B FormButton 1 pressed.
+[2016-10-17 17:20:23.970], ==============================================
+[2016-10-17 17:20:23.970], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'Set Value' 'Rules Engine'], Evaluating rule Set Value with set Http Session Variable value WSACookie from WSACookie
+[2016-10-17 17:20:23.971], ==============================================
+[2016-10-17 17:20:23.971], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'Set Value' 'Set Value Rule: Set Value'], Setting Http Session Variable WSACookie with value WSACookie
+[2016-10-17 17:20:23.972], ==============================================
+[2016-10-17 17:20:23.973], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'Goto Phase' 'Rules Engine'], Evaluating rule Goto Phase with Go Forward to a Named Phase: Phase 'AddSecurityHeader.Home Page'
+[2016-10-17 17:20:23.973], ==============================================
+[2016-10-17 17:20:23.973], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Login' 'Goto Phase' 'Goto Phase Rule: Goto Phase'], Adding named phase AddSecurityHeader.Home Page to stack.
+[2016-10-17 17:20:23.975], ==============================================
+[2016-10-17 17:20:23.975], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Home Page' 'Set Value' 'Rules Engine'], Evaluating rule Set Value with set Data Item value WSACookie from $$HTTP_HEADER.cookie$
+[2016-10-17 17:20:23.976], ==============================================
+[2016-10-17 17:20:23.976], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Home Page' 'Set Value' 'Set Value Rule: Set Value'], Setting Data Item WSACOOKIE with value JSESSIONID=1sy1osfr78lz6qoaso84vxsmv
+[2016-10-17 17:20:24.008], ==============================================
+[2016-10-17 17:20:24.008], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:20:24.009], ==============================================
+[2016-10-17 17:20:24.010], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Showing phase name: AddSecurityHeader.Home Page
+[2016-10-17 17:20:24.101], ==============================================
+[2016-10-17 17:20:24.102], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Property not found : isHybrid
+[2016-10-17 17:20:24.131], ==============================================
+[2016-10-17 17:20:24.132], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Property not found : isHybrid
+[2016-10-17 17:20:24.136], ==============================================
+[2016-10-17 17:20:24.136], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Home Page' 'none' 'Phase Description'], 
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ * $RCSfile: edge IPK branded.tpl,v $
+ * $Author: europe\aheath $
+ * $Revision: 1.21 $
+ * $Date: 2015/07/14 13:09:49 $
+-->
+  <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta name="author" content="Edge IPK"/>
+      <title>Temenos Rich HTML </title>
+                <style type='text/css'>.accessibilityStyle { position:absolute !important; width:0 !important; height:0 !important; font-size:0 !important; overflow:hidden !important;padding:0 !important} *[align="right"]  { text-align: right; }  *[align="left"]   { text-align: left;  }  *[align="center"] { text-align: center;} </style><style type='text/css'>.ecDIB {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;vertical-align: top;}.ecDIBCol {vertical-align: top;}</style>
+<link id='maincss' title='maincss' rel='stylesheet' type='text/css' href='./html/css/Default.css?1476696024125' />
+
+<script type="text/javascript">
+//<![CDATA[
+var controllerMode = 'XX';
+var pageCode = '&x8dfcd6b0-7484-4226-91e8-0134b1058c40=460c7ef6-e585-434f-9c9e-3db9eddacb02';
+var rootContext = '/TestFilter';
+var act = '/TestFilter/servletcontroller';
+var popupAct = '/TestFilter/servletcontroller';
+var session = new Array();
+var checkbox = new Array();
+var activeTabName = '';
+var rowClickedIds = new Array();
+var calendarComponents = new Array();
+var submitEnabled = true;
+var enabledControls = new Array();
+var enabledLinks = new Array();
+var forwardsConfirmMsg = '';
+var backConfirmMsg = '';
+var hasSubmitted = false;
+var keyspressed = '';
+var qlrOk = 'Y';
+var invalidQuestions = new Array();
+var calendarPagePath = '/TestFilter/html/calendar.html';
+var calendarPopup = '	<div id="toolbar" onmouseover="this.style.cursor = \'pointer\'" style="height: 20px; width:197px;  ">		<div style="height: 20px; background: rgb(126, 192, 233) url(/TestFilter/images/toolBarBlueGradient.gif) repeat-x scroll 0% 0%; float: left; width: 175px; " onmousedown="try {dragStart(event, \'FloatCalendarDiv\');} catch (e){}">&nbsp;<\\/div>		<div style="background-color: #ffffff;border-top: 2px solid rgb(170, 220, 250); border-right: 2px solid rgb(126, 192, 233); float: left; color: rgb(126, 192, 233); font-family: Arial; text-align: center; width: 20px; height: 18px;" onclick="parentNode.parentNode.style.display = \'none\';" >X<\\/div>		<div style="clear: both"><\\/div>	<\\/div>	<div style="color: #4444BB; font-family: Arial; height:92%; width:100%;">		<iframe id="calendarIframe"  src="javascript:false;" style="height:100%; width:100%; color: #FFFFFF;" scrolling="no" frameBorder="0"			>		    <p>Your browser does not support iframes.<\\/p>		<\\/iframe>	<\\/div>';
+var helpPagePath = '/TestFilter/html/help.html';
+var imageDirPath = '/TestFilter/images/';
+var popupParams = '';
+var clientSideValidation = true;
+var calendars = [];
+var currentX = 390;
+var currentY = 650;
+var SORT_COLUMN_INDEX;
+var CURRENT_YEAR = 2016;
+var CURRENT_THEME = '';
+var focusValue = '';
+var MessagePosition = 'After Answer';
+var MessageTargetId = '';
+var InfoMessagePosition = 'Do Not Show';
+var InfoMessageTargetId = '';
+var WarningMessagePosition = 'Do Not Show';
+var WarningMessageTargetId = '';
+var ShowOneMessage = 'Y';
+var MessagesSeparator = '<br/>';
+var MessagesOrder = 'Errors, Warnings, Info';
+var MandMessage = 'Please answer all the required questions marked with a $$QUESTION_CONSTRAINT$';
+var ValidationMessage = 'Please enter a valid value';
+var InvalidUploadTypeMessage = 'The valid file types you are allowed to upload are: $$QUESTION_CONSTRAINT$';
+var InvalidMaxFileSizeMessage = 'The maximum file size allowed is $$QUESTION_CONSTRAINT$k';
+var InvalidAlphaNumericMessage = 'Please re-enter using letters and numbers';
+var InvalidAlphaMessage = 'Please re-enter using letters';
+var InvalidNumMessage = 'Please enter a valid number';
+var InvalidDecimalMessage = 'Please enter a valid decimal number';
+var InvalidDateMessage = 'Please enter a valid date in the form: $$QUESTION_CONSTRAINT$';
+var InvalidTimeMessage = 'Please enter a valid time in the form: $$QUESTION_CONSTRAINT$';
+var InvalidMaxValueMessage = 'The maximum value is $$QUESTION_CONSTRAINT$';
+var InvalidMinValueMessage = 'The minimum value is $$QUESTION_CONSTRAINT$';
+var InvalidMaxLengthMessage = 'The maximum length is $$QUESTION_CONSTRAINT$';
+var InvalidMinLengthMessage = 'The minimum length is $$QUESTION_CONSTRAINT$';
+var InvalidDaysInMonthMessage = 'There are not that many days in the specified month';
+var InvalidLeapYearMessage = 'The specified year is not a leap year';
+var InvalidMaxDateMessage = 'The latest date is $$QUESTION_CONSTRAINT$';
+var InvalidMinDateMessage = 'The earliest date is $$QUESTION_CONSTRAINT$';
+//]]>
+</script>
+
+<script type="text/javascript" src="/TestFilter/html/js/calendar1.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/jsep.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/spellcheck-caller.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_ajax.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_transferable_list.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_validation.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_help.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_divs.js?version_5.4.1__5"></script>
+
+
+        
+
+    </head>
+    <body style="margin:0px;" class="BrowserWindow">
+
+
+        <!-- UNCOMMENT IFRAME IF USING AUTOCOMPLETE - PROVIDES WORK-AROUND FOR IE6 ISSUE -->
+    <!--iframe id="ec_suggest_iframe" style="position:absolute; left:0; top:0px; width:0px; height: 0px; " ></iframe-->
+    <form id="form1" method="post" action="servletcontroller" onsubmit="return false;">
+      <div><input type="hidden" name="MODE"/></div>
+      
+      	<div><input type="hidden" name="x8dfcd6b0-7484-4226-91e8-0134b1058c40" value="460c7ef6-e585-434f-9c9e-3db9eddacb02"/></div>
+      
+      <div><input type="hidden" name="MENUSTATE"/></div>
+
+	 <!-- don't show the branding in a popup -->
+	    <div style="background-image: url(/TestFilter/images/edgeBanner.jpg); width: 100%; height: 150px"></div>
+	
+      <!-- To center the contents of your form, set style="text-align:center;" on the form tag (works in IE), 
+          and style="margin-left:auto; margin-right:auto;" on the following table (works in Mozilla) -->
+          
+              <div style="width: 100%">
+                      
+                      
+          
+             <div style="display: none;"><input type="hidden" name="DEVICE_SIZE_INFO" value=""/></div><div style="clear: both" class="GlobalFont Color1  " id="EDGE_CONNECT_PROCESS"><div style="clear: both; width: 100%"></div><div style="clear: both" id="EDGE_CONNECT_PHASE"><div style="clear: both; width: 100%"><div style="clear: left;" id="row_HEAD_B0C2E252A313E33B577"><div id="p1_HEAD_B0C2E252A313E33B577" style="text-align: left; ; float: left;width: 100.0%;" class="VLargeFont Color2 Bold"><div style="padding: 4px">Logged In. Cookie :  JSESSIONID=1sy1osfr78lz6qoaso84vxsmv</div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div>
+          
+                
+                    <div style="clear:both"></div>
+                
+              </div>
+               
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+
+forwardsConfirmMsg="";
+backConfirmMsg="";
+MANDCHAR='*';
+
+function initForm(p_namespace) {
+if ( null == p_namespace ) p_namespace = '';
+if ( beforeInitForm(p_namespace) == false ) return ;
+showECForm(p_namespace);
+showServerSideValidationMessagesPopup(p_namespace);
+afterInitForm(p_namespace);
+}
+var tid = setInterval( function () { 
+    if ( document.readyState !== 'complete' ) return; 
+    clearInterval( tid );   
+    initForm('');
+
+}, 100 );
+
+function showECForm(p_ns){
+}
+function hideECForm(p_ns, p_mode, p_scroll, p_id){
+return true;}
+//]]>
+
+</script>
+
+
+
+  
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+
+</script>
+</body>
+</html>
+
+
+
+[2016-10-17 17:20:24.137], ==============================================
+[2016-10-17 17:20:24.137], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Application Server session timeout set to: 1800
+[2016-10-17 17:29:11.995], ==============================================
+[2016-10-17 17:29:11.995], ['DEBUG_4' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Query String null
+[2016-10-17 17:29:11.999], ==============================================
+[2016-10-17 17:29:11.999], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Mode: XX
+[2016-10-17 17:29:11.999], ==============================================
+[2016-10-17 17:29:11.999], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Page Requested: null, Current Session Page: 0
+[2016-10-17 17:29:11.999], ==============================================
+[2016-10-17 17:29:12.000], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Product Requested: 
+[2016-10-17 17:29:12.002], ==============================================
+[2016-10-17 17:29:12.003], ['DEBUG_3' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Presentation Type Requested: 
+[2016-10-17 17:29:12.003], ==============================================
+[2016-10-17 17:29:12.003], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Field: DEVICE_INFO, Values: 
+[2016-10-17 17:29:12.003], ==============================================
+[2016-10-17 17:29:12.004], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Field: BROWSER_FEATURES, Values: flexbox:1|canvas:1|canvastext:1|webgl:1|touch:0|geolocation:1|postmessage:1|websqldatabase:0|indexeddb:1|hashchange:1|history:1|draganddrop:1|websockets:1|rgba:1|hsla:1|multiplebgs:1|backgroundsize:1|borderimage:1|borderradius:1|boxshadow:1|textshadow:1|opacity:1|cssanimations:1|csscolumns:1|cssgradients:1|cssreflections:0|csstransforms:1|csstransforms3d:1|csstransitions:1|fontface:1|generatedcontent:1|video:/ogg:0/h264:1/webm:0|audio:/ogg:0/mp3:1/wav:0/m4a:1|localstorage:1|sessionstorage:1|webworkers:1|applicationcache:1|svg:1|inlinesvg:1|smil:0|svgclippaths:1|input:/autocomplete:1/autofocus:1/list:1/placeholder:1/max:1/min:1/multiple:1/pattern:1/required:1/step:1|inputtypes:/search:1/tel:1/url:1/email:1/datetime:0/date:0/month:0/week:0/time:0/datetime-local:0/number:1/range:1/color:0|adownload:0|audiodata:1|webaudio:0|battery:0|details:0;
+[2016-10-17 17:29:12.005], ==============================================
+[2016-10-17 17:29:12.006], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Field: PRESENTATION_TYPE, Values: 
+[2016-10-17 17:29:12.006], ==============================================
+[2016-10-17 17:29:12.006], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Field: DEVICE_SIZE_INFO, Values: {"screenWidth":"1536","screenHeight":"826","documentWidth":"1536","documentHeight":"770","bodyWidth":"1536","bodyHeight":"234","windowWidth":"1536","windowHeight":"770","screenOrientation":"L"}
+[2016-10-17 17:29:12.006], ==============================================
+[2016-10-17 17:29:12.006], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Field: MODE, Values: XX
+[2016-10-17 17:29:12.007], ==============================================
+[2016-10-17 17:29:12.007], ['DEBUG_6' '1sy1osfr78lz6qoaso84vxsmv' 'none' 'none' 'none' 'none'], Field: PRODUCT, Values: 
+[2016-10-17 17:29:12.007], ==============================================
+[2016-10-17 17:29:12.007], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'none' 'none' 'none' 'none'], Setting up new session.
+[2016-10-17 17:29:12.007], ==============================================
+[2016-10-17 17:29:12.008], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'none' 'none' 'none' 'none'], Setting up session info.
+[2016-10-17 17:29:12.008], ==============================================
+[2016-10-17 17:29:12.008], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'none' 'none' 'none' 'none'], Presentation Type Name: Test
+[2016-10-17 17:29:12.008], ==============================================
+[2016-10-17 17:29:12.008], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'none' 'none' 'none' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:29:12.008], ==============================================
+[2016-10-17 17:29:12.008], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'none' 'none' 'none'], Product Name: AddSecurityHeader
+[2016-10-17 17:29:12.009], ==============================================
+[2016-10-17 17:29:12.011], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : usePushNotifications
+[2016-10-17 17:29:12.012], ==============================================
+[2016-10-17 17:29:12.012], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:29:12.013], ==============================================
+[2016-10-17 17:29:12.013], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode for Security called: p_applicationMode=XX
+[2016-10-17 17:29:12.020], ==============================================
+[2016-10-17 17:29:12.020], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:29:12.020], ==============================================
+[2016-10-17 17:29:12.021], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode called: p_applicationMode=XX
+[2016-10-17 17:29:12.022], ==============================================
+[2016-10-17 17:29:12.022], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:29:12.023], ==============================================
+[2016-10-17 17:29:12.023], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Showing phase name: AddSecurityHeader.Login
+[2016-10-17 17:29:12.044], ==============================================
+[2016-10-17 17:29:12.044], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : isHybrid
+[2016-10-17 17:29:12.067], ==============================================
+[2016-10-17 17:29:12.067], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : isHybrid
+[2016-10-17 17:29:12.070], ==============================================
+[2016-10-17 17:29:12.071], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none' 'Phase Description'], 
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ * $RCSfile: edge IPK branded.tpl,v $
+ * $Author: europe\aheath $
+ * $Revision: 1.21 $
+ * $Date: 2015/07/14 13:09:49 $
+-->
+  <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta name="author" content="Edge IPK"/>
+      <title>Temenos Rich HTML </title>
+                <style type='text/css'>.accessibilityStyle { position:absolute !important; width:0 !important; height:0 !important; font-size:0 !important; overflow:hidden !important;padding:0 !important} *[align="right"]  { text-align: right; }  *[align="left"]   { text-align: left;  }  *[align="center"] { text-align: center;} </style><style type='text/css'>.ecDIB {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;vertical-align: top;}.ecDIBCol {vertical-align: top;}</style>
+<link id='maincss' title='maincss' rel='stylesheet' type='text/css' href='./html/css/Default.css?1476696552064' />
+
+<script type="text/javascript">
+//<![CDATA[
+var controllerMode = 'XX';
+var pageCode = '&x472940e4-463f-4083-833c-568c540c697f=2b943f09-6402-4214-b7ea-86c2d8a4e34b';
+var rootContext = '/TestFilter';
+var act = '/TestFilter/servletcontroller';
+var popupAct = '/TestFilter/servletcontroller';
+var session = new Array();
+var checkbox = new Array();
+var activeTabName = '';
+var rowClickedIds = new Array();
+var calendarComponents = new Array();
+var submitEnabled = true;
+var enabledControls = new Array();
+var enabledLinks = new Array();
+var forwardsConfirmMsg = '';
+var backConfirmMsg = '';
+var hasSubmitted = false;
+var keyspressed = '';
+var qlrOk = 'Y';
+var invalidQuestions = new Array();
+var calendarPagePath = '/TestFilter/html/calendar.html';
+var calendarPopup = '	<div id="toolbar" onmouseover="this.style.cursor = \'pointer\'" style="height: 20px; width:197px;  ">		<div style="height: 20px; background: rgb(126, 192, 233) url(/TestFilter/images/toolBarBlueGradient.gif) repeat-x scroll 0% 0%; float: left; width: 175px; " onmousedown="try {dragStart(event, \'FloatCalendarDiv\');} catch (e){}">&nbsp;<\\/div>		<div style="background-color: #ffffff;border-top: 2px solid rgb(170, 220, 250); border-right: 2px solid rgb(126, 192, 233); float: left; color: rgb(126, 192, 233); font-family: Arial; text-align: center; width: 20px; height: 18px;" onclick="parentNode.parentNode.style.display = \'none\';" >X<\\/div>		<div style="clear: both"><\\/div>	<\\/div>	<div style="color: #4444BB; font-family: Arial; height:92%; width:100%;">		<iframe id="calendarIframe"  src="javascript:false;" style="height:100%; width:100%; color: #FFFFFF;" scrolling="no" frameBorder="0"			>		    <p>Your browser does not support iframes.<\\/p>		<\\/iframe>	<\\/div>';
+var helpPagePath = '/TestFilter/html/help.html';
+var imageDirPath = '/TestFilter/images/';
+var popupParams = '';
+var clientSideValidation = true;
+var calendars = [];
+var currentX = 390;
+var currentY = 650;
+var SORT_COLUMN_INDEX;
+var CURRENT_YEAR = 2016;
+var CURRENT_THEME = '';
+var focusValue = '';
+var MessagePosition = 'After Answer';
+var MessageTargetId = '';
+var InfoMessagePosition = 'Do Not Show';
+var InfoMessageTargetId = '';
+var WarningMessagePosition = 'Do Not Show';
+var WarningMessageTargetId = '';
+var ShowOneMessage = 'Y';
+var MessagesSeparator = '<br/>';
+var MessagesOrder = 'Errors, Warnings, Info';
+var MandMessage = 'Please answer all the required questions marked with a $$QUESTION_CONSTRAINT$';
+var ValidationMessage = 'Please enter a valid value';
+var InvalidUploadTypeMessage = 'The valid file types you are allowed to upload are: $$QUESTION_CONSTRAINT$';
+var InvalidMaxFileSizeMessage = 'The maximum file size allowed is $$QUESTION_CONSTRAINT$k';
+var InvalidAlphaNumericMessage = 'Please re-enter using letters and numbers';
+var InvalidAlphaMessage = 'Please re-enter using letters';
+var InvalidNumMessage = 'Please enter a valid number';
+var InvalidDecimalMessage = 'Please enter a valid decimal number';
+var InvalidDateMessage = 'Please enter a valid date in the form: $$QUESTION_CONSTRAINT$';
+var InvalidTimeMessage = 'Please enter a valid time in the form: $$QUESTION_CONSTRAINT$';
+var InvalidMaxValueMessage = 'The maximum value is $$QUESTION_CONSTRAINT$';
+var InvalidMinValueMessage = 'The minimum value is $$QUESTION_CONSTRAINT$';
+var InvalidMaxLengthMessage = 'The maximum length is $$QUESTION_CONSTRAINT$';
+var InvalidMinLengthMessage = 'The minimum length is $$QUESTION_CONSTRAINT$';
+var InvalidDaysInMonthMessage = 'There are not that many days in the specified month';
+var InvalidLeapYearMessage = 'The specified year is not a leap year';
+var InvalidMaxDateMessage = 'The latest date is $$QUESTION_CONSTRAINT$';
+var InvalidMinDateMessage = 'The earliest date is $$QUESTION_CONSTRAINT$';
+//]]>
+</script>
+
+<script type="text/javascript" src="/TestFilter/html/js/calendar1.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/jsep.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/spellcheck-caller.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_ajax.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_transferable_list.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_validation.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_help.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_divs.js?version_5.4.1__5"></script>
+
+
+        
+
+    </head>
+    <body style="margin:0px;" class="BrowserWindow">
+
+
+        <!-- UNCOMMENT IFRAME IF USING AUTOCOMPLETE - PROVIDES WORK-AROUND FOR IE6 ISSUE -->
+    <!--iframe id="ec_suggest_iframe" style="position:absolute; left:0; top:0px; width:0px; height: 0px; " ></iframe-->
+    <form id="form1" method="post" action="servletcontroller" onsubmit="return false;">
+      <div><input type="hidden" name="MODE"/></div>
+      
+      	<div><input type="hidden" name="x472940e4-463f-4083-833c-568c540c697f" value="2b943f09-6402-4214-b7ea-86c2d8a4e34b"/></div>
+      
+      <div><input type="hidden" name="MENUSTATE"/></div>
+
+	 <!-- don't show the branding in a popup -->
+	    <div style="background-image: url(/TestFilter/images/edgeBanner.jpg); width: 100%; height: 150px"></div>
+	
+      <!-- To center the contents of your form, set style="text-align:center;" on the form tag (works in IE), 
+          and style="margin-left:auto; margin-right:auto;" on the following table (works in Mozilla) -->
+          
+              <div style="width: 100%">
+                      
+                      
+          
+             <div style="display: none;"><input type="hidden" name="DEVICE_SIZE_INFO" value=""/></div><div style="clear: both" class="GlobalFont Color1  " id="EDGE_CONNECT_PROCESS"><div style="clear: both; width: 100%"></div><div style="clear: both" id="EDGE_CONNECT_PHASE"><div style="clear: both; width: 100%"><div style="clear: left;" id="row_BUT_B0C2E252A313E33B572"><div id="p1_BUT_B0C2E252A313E33B572" style="float: left;width: 48%;"><div style="padding: 4px">&nbsp;</div></div><div id="p2_BUT_B0C2E252A313E33B572" style="float: left;width: 2%;"><div style="padding: 4px">&nbsp;</div></div><div id="p3_BUT_B0C2E252A313E33B572" style="float: left;width: 1%;"><div style="padding: 4px">&nbsp;</div></div><div style="text-align: left; width: 49%;  float: left;  " id="p4_BUT_B0C2E252A313E33B572"><div style="padding: 4px"><button title="Login" onclick="return buttonClicked('__B0C2E252A313E33B FormButton 1', false, null, '', false, 'BUT_B0C2E252A313E33B572', true, false, '', true, true, 'preInPhase');" type="button" name="__B0C2E252A313E33B FormButton 1" onmouseover="this.style.cursor='pointer'" value="Login" class="Color1 RightAlignedImage ActionArrow" id="BUT_B0C2E252A313E33B572">Login</button></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div>
+          
+                
+                    <div style="clear:both"></div>
+                
+              </div>
+               
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+
+forwardsConfirmMsg="";
+backConfirmMsg="";
+MANDCHAR='*';
+
+function initForm(p_namespace) {
+if ( null == p_namespace ) p_namespace = '';
+if ( beforeInitForm(p_namespace) == false ) return ;
+showECForm(p_namespace);
+showServerSideValidationMessagesPopup(p_namespace);
+afterInitForm(p_namespace);
+}
+var tid = setInterval( function () { 
+    if ( document.readyState !== 'complete' ) return; 
+    clearInterval( tid );   
+    initForm('');
+
+}, 100 );
+
+function showECForm(p_ns){
+}
+function hideECForm(p_ns, p_mode, p_scroll, p_id){
+return true;}
+//]]>
+
+</script>
+
+
+
+  
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+
+</script>
+</body>
+</html>
+
+
+
+[2016-10-17 17:29:12.071], ==============================================
+[2016-10-17 17:29:12.071], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Application Server session timeout set to: 1800
+[2016-10-17 17:29:14.990], ==============================================
+[2016-10-17 17:29:14.991], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Query String null
+[2016-10-17 17:29:14.992], ==============================================
+[2016-10-17 17:29:14.992], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Mode: __B0C2E252A313E33B FormButton 1
+[2016-10-17 17:29:14.992], ==============================================
+[2016-10-17 17:29:14.992], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Page Requested: 0, Current Session Page: 0
+[2016-10-17 17:29:14.992], ==============================================
+[2016-10-17 17:29:14.992], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Product Requested: null
+[2016-10-17 17:29:14.993], ==============================================
+[2016-10-17 17:29:14.993], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Presentation Type Requested: null
+[2016-10-17 17:29:14.993], ==============================================
+[2016-10-17 17:29:14.993], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: MENUSTATE, Values: 
+[2016-10-17 17:29:14.994], ==============================================
+[2016-10-17 17:29:14.994], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: DEVICE_SIZE_INFO, Values: 
+[2016-10-17 17:29:14.994], ==============================================
+[2016-10-17 17:29:14.994], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: MODE, Values: __B0C2E252A313E33B FormButton 1
+[2016-10-17 17:29:14.994], ==============================================
+[2016-10-17 17:29:14.995], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: x472940e4-463f-4083-833c-568c540c697f, Values: 2b943f09-6402-4214-b7ea-86c2d8a4e34b
+[2016-10-17 17:29:14.995], ==============================================
+[2016-10-17 17:29:14.995], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : usePushNotifications
+[2016-10-17 17:29:14.995], ==============================================
+[2016-10-17 17:29:14.996], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = null
+[2016-10-17 17:29:14.996], ==============================================
+[2016-10-17 17:29:14.996], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode for Security called: p_applicationMode=__B0C2E252A313E33B FormButton 1
+[2016-10-17 17:29:14.999], ==============================================
+[2016-10-17 17:29:14.999], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = null
+[2016-10-17 17:29:14.999], ==============================================
+[2016-10-17 17:29:14.999], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode called: p_applicationMode=__B0C2E252A313E33B FormButton 1
+[2016-10-17 17:29:15.000], ==============================================
+[2016-10-17 17:29:15.000], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'none'], Button/Nav Item/Breadcrumb with name B0C2E252A313E33B FormButton 1 pressed.
+[2016-10-17 17:29:15.001], ==============================================
+[2016-10-17 17:29:15.001], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'Set Value' 'Rules Engine'], Evaluating rule Set Value with set Http Session Variable value WSACookie from WSACookie
+[2016-10-17 17:29:15.001], ==============================================
+[2016-10-17 17:29:15.001], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'Set Value' 'Set Value Rule: Set Value'], Setting Http Session Variable WSACookie with value WSACookie
+[2016-10-17 17:29:15.001], ==============================================
+[2016-10-17 17:29:15.002], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'Goto Phase' 'Rules Engine'], Evaluating rule Goto Phase with Go Forward to a Named Phase: Phase 'AddSecurityHeader.Home Page'
+[2016-10-17 17:29:15.002], ==============================================
+[2016-10-17 17:29:15.002], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Login' 'Goto Phase' 'Goto Phase Rule: Goto Phase'], Adding named phase AddSecurityHeader.Home Page to stack.
+[2016-10-17 17:29:15.002], ==============================================
+[2016-10-17 17:29:15.002], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Home Page' 'Set Value' 'Rules Engine'], Evaluating rule Set Value with set Data Item value WSACookie from $$HTTP_HEADER.cookie$
+[2016-10-17 17:29:15.003], ==============================================
+[2016-10-17 17:29:15.003], ['DEBUG_4' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Home Page' 'Set Value' 'Set Value Rule: Set Value'], Setting Data Item WSACOOKIE with value JSESSIONID=jr3wh3ksuacg1cf7ht5yp8tex
+[2016-10-17 17:29:15.004], ==============================================
+[2016-10-17 17:29:15.005], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:29:15.005], ==============================================
+[2016-10-17 17:29:15.005], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Showing phase name: AddSecurityHeader.Home Page
+[2016-10-17 17:29:15.026], ==============================================
+[2016-10-17 17:29:15.026], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Property not found : isHybrid
+[2016-10-17 17:29:15.052], ==============================================
+[2016-10-17 17:29:15.052], ['DEBUG_3' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Property not found : isHybrid
+[2016-10-17 17:29:15.056], ==============================================
+[2016-10-17 17:29:15.056], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Home Page' 'none' 'Phase Description'], 
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ * $RCSfile: edge IPK branded.tpl,v $
+ * $Author: europe\aheath $
+ * $Revision: 1.21 $
+ * $Date: 2015/07/14 13:09:49 $
+-->
+  <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta name="author" content="Edge IPK"/>
+      <title>Temenos Rich HTML </title>
+                <style type='text/css'>.accessibilityStyle { position:absolute !important; width:0 !important; height:0 !important; font-size:0 !important; overflow:hidden !important;padding:0 !important} *[align="right"]  { text-align: right; }  *[align="left"]   { text-align: left;  }  *[align="center"] { text-align: center;} </style><style type='text/css'>.ecDIB {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;vertical-align: top;}.ecDIBCol {vertical-align: top;}</style>
+<link id='maincss' title='maincss' rel='stylesheet' type='text/css' href='./html/css/Default.css?1476696555047' />
+
+<script type="text/javascript">
+//<![CDATA[
+var controllerMode = 'XX';
+var pageCode = '&x5107fbcd-9a1c-4e00-a0e9-5865283ff573=54213432-a5dd-4557-a6e3-99709c6229e3';
+var rootContext = '/TestFilter';
+var act = '/TestFilter/servletcontroller';
+var popupAct = '/TestFilter/servletcontroller';
+var session = new Array();
+var checkbox = new Array();
+var activeTabName = '';
+var rowClickedIds = new Array();
+var calendarComponents = new Array();
+var submitEnabled = true;
+var enabledControls = new Array();
+var enabledLinks = new Array();
+var forwardsConfirmMsg = '';
+var backConfirmMsg = '';
+var hasSubmitted = false;
+var keyspressed = '';
+var qlrOk = 'Y';
+var invalidQuestions = new Array();
+var calendarPagePath = '/TestFilter/html/calendar.html';
+var calendarPopup = '	<div id="toolbar" onmouseover="this.style.cursor = \'pointer\'" style="height: 20px; width:197px;  ">		<div style="height: 20px; background: rgb(126, 192, 233) url(/TestFilter/images/toolBarBlueGradient.gif) repeat-x scroll 0% 0%; float: left; width: 175px; " onmousedown="try {dragStart(event, \'FloatCalendarDiv\');} catch (e){}">&nbsp;<\\/div>		<div style="background-color: #ffffff;border-top: 2px solid rgb(170, 220, 250); border-right: 2px solid rgb(126, 192, 233); float: left; color: rgb(126, 192, 233); font-family: Arial; text-align: center; width: 20px; height: 18px;" onclick="parentNode.parentNode.style.display = \'none\';" >X<\\/div>		<div style="clear: both"><\\/div>	<\\/div>	<div style="color: #4444BB; font-family: Arial; height:92%; width:100%;">		<iframe id="calendarIframe"  src="javascript:false;" style="height:100%; width:100%; color: #FFFFFF;" scrolling="no" frameBorder="0"			>		    <p>Your browser does not support iframes.<\\/p>		<\\/iframe>	<\\/div>';
+var helpPagePath = '/TestFilter/html/help.html';
+var imageDirPath = '/TestFilter/images/';
+var popupParams = '';
+var clientSideValidation = true;
+var calendars = [];
+var currentX = 390;
+var currentY = 650;
+var SORT_COLUMN_INDEX;
+var CURRENT_YEAR = 2016;
+var CURRENT_THEME = '';
+var focusValue = '';
+var MessagePosition = 'After Answer';
+var MessageTargetId = '';
+var InfoMessagePosition = 'Do Not Show';
+var InfoMessageTargetId = '';
+var WarningMessagePosition = 'Do Not Show';
+var WarningMessageTargetId = '';
+var ShowOneMessage = 'Y';
+var MessagesSeparator = '<br/>';
+var MessagesOrder = 'Errors, Warnings, Info';
+var MandMessage = 'Please answer all the required questions marked with a $$QUESTION_CONSTRAINT$';
+var ValidationMessage = 'Please enter a valid value';
+var InvalidUploadTypeMessage = 'The valid file types you are allowed to upload are: $$QUESTION_CONSTRAINT$';
+var InvalidMaxFileSizeMessage = 'The maximum file size allowed is $$QUESTION_CONSTRAINT$k';
+var InvalidAlphaNumericMessage = 'Please re-enter using letters and numbers';
+var InvalidAlphaMessage = 'Please re-enter using letters';
+var InvalidNumMessage = 'Please enter a valid number';
+var InvalidDecimalMessage = 'Please enter a valid decimal number';
+var InvalidDateMessage = 'Please enter a valid date in the form: $$QUESTION_CONSTRAINT$';
+var InvalidTimeMessage = 'Please enter a valid time in the form: $$QUESTION_CONSTRAINT$';
+var InvalidMaxValueMessage = 'The maximum value is $$QUESTION_CONSTRAINT$';
+var InvalidMinValueMessage = 'The minimum value is $$QUESTION_CONSTRAINT$';
+var InvalidMaxLengthMessage = 'The maximum length is $$QUESTION_CONSTRAINT$';
+var InvalidMinLengthMessage = 'The minimum length is $$QUESTION_CONSTRAINT$';
+var InvalidDaysInMonthMessage = 'There are not that many days in the specified month';
+var InvalidLeapYearMessage = 'The specified year is not a leap year';
+var InvalidMaxDateMessage = 'The latest date is $$QUESTION_CONSTRAINT$';
+var InvalidMinDateMessage = 'The earliest date is $$QUESTION_CONSTRAINT$';
+//]]>
+</script>
+
+<script type="text/javascript" src="/TestFilter/html/js/calendar1.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/jsep.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/spellcheck-caller.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_ajax.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_transferable_list.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_validation.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_help.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_divs.js?version_5.4.1__5"></script>
+
+
+        
+
+    </head>
+    <body style="margin:0px;" class="BrowserWindow">
+
+
+        <!-- UNCOMMENT IFRAME IF USING AUTOCOMPLETE - PROVIDES WORK-AROUND FOR IE6 ISSUE -->
+    <!--iframe id="ec_suggest_iframe" style="position:absolute; left:0; top:0px; width:0px; height: 0px; " ></iframe-->
+    <form id="form1" method="post" action="servletcontroller" onsubmit="return false;">
+      <div><input type="hidden" name="MODE"/></div>
+      
+      	<div><input type="hidden" name="x5107fbcd-9a1c-4e00-a0e9-5865283ff573" value="54213432-a5dd-4557-a6e3-99709c6229e3"/></div>
+      
+      <div><input type="hidden" name="MENUSTATE"/></div>
+
+	 <!-- don't show the branding in a popup -->
+	    <div style="background-image: url(/TestFilter/images/edgeBanner.jpg); width: 100%; height: 150px"></div>
+	
+      <!-- To center the contents of your form, set style="text-align:center;" on the form tag (works in IE), 
+          and style="margin-left:auto; margin-right:auto;" on the following table (works in Mozilla) -->
+          
+              <div style="width: 100%">
+                      
+                      
+          
+             <div style="display: none;"><input type="hidden" name="DEVICE_SIZE_INFO" value=""/></div><div style="clear: both" class="GlobalFont Color1  " id="EDGE_CONNECT_PROCESS"><div style="clear: both; width: 100%"></div><div style="clear: both" id="EDGE_CONNECT_PHASE"><div style="clear: both; width: 100%"><div style="clear: left;" id="row_HEAD_B0C2E252A313E33B577"><div id="p1_HEAD_B0C2E252A313E33B577" style="text-align: left; ; float: left;width: 100.0%;" class="VLargeFont Color2 Bold"><div style="padding: 4px">Logged In. Cookie :  JSESSIONID=jr3wh3ksuacg1cf7ht5yp8tex</div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div>
+          
+                
+                    <div style="clear:both"></div>
+                
+              </div>
+               
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+
+forwardsConfirmMsg="";
+backConfirmMsg="";
+MANDCHAR='*';
+
+function initForm(p_namespace) {
+if ( null == p_namespace ) p_namespace = '';
+if ( beforeInitForm(p_namespace) == false ) return ;
+showECForm(p_namespace);
+showServerSideValidationMessagesPopup(p_namespace);
+afterInitForm(p_namespace);
+}
+var tid = setInterval( function () { 
+    if ( document.readyState !== 'complete' ) return; 
+    clearInterval( tid );   
+    initForm('');
+
+}, 100 );
+
+function showECForm(p_ns){
+}
+function hideECForm(p_ns, p_mode, p_scroll, p_id){
+return true;}
+//]]>
+
+</script>
+
+
+
+  
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+
+</script>
+</body>
+</html>
+
+
+
+[2016-10-17 17:29:15.057], ==============================================
+[2016-10-17 17:29:15.057], ['DEBUG_6' 'jr3wh3ksuacg1cf7ht5yp8tex' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Application Server session timeout set to: 1800
+[2016-10-17 17:32:04.915], ==============================================
+[2016-10-17 17:32:04.916], ['DEBUG_4' 'null' 'none' 'none' 'none' 'none'], Query String null
+[2016-10-17 17:32:04.924], ==============================================
+[2016-10-17 17:32:04.924], ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Mode: XX
+[2016-10-17 17:32:04.924], ==============================================
+[2016-10-17 17:32:04.925], ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Page Requested: null, Current Session Page: 0
+[2016-10-17 17:32:04.925], ==============================================
+[2016-10-17 17:32:04.925], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Product Requested: 
+[2016-10-17 17:32:04.925], ==============================================
+[2016-10-17 17:32:04.925], ['DEBUG_3' 'null' 'none' 'none' 'none' 'none'], Presentation Type Requested: 
+[2016-10-17 17:32:04.928], ==============================================
+[2016-10-17 17:32:04.928], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: DEVICE_INFO, Values: 
+[2016-10-17 17:32:04.929], ==============================================
+[2016-10-17 17:32:04.929], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: BROWSER_FEATURES, Values: flexbox:1|canvas:1|canvastext:1|webgl:1|touch:0|geolocation:1|postmessage:1|websqldatabase:0|indexeddb:1|hashchange:1|history:1|draganddrop:1|websockets:1|rgba:1|hsla:1|multiplebgs:1|backgroundsize:1|borderimage:1|borderradius:1|boxshadow:1|textshadow:1|opacity:1|cssanimations:1|csscolumns:1|cssgradients:1|cssreflections:0|csstransforms:1|csstransforms3d:1|csstransitions:1|fontface:1|generatedcontent:1|video:/ogg:0/h264:1/webm:0|audio:/ogg:0/mp3:1/wav:0/m4a:1|localstorage:1|sessionstorage:1|webworkers:1|applicationcache:1|svg:1|inlinesvg:1|smil:0|svgclippaths:1|input:/autocomplete:1/autofocus:1/list:1/placeholder:1/max:1/min:1/multiple:1/pattern:1/required:1/step:1|inputtypes:/search:1/tel:1/url:1/email:1/datetime:0/date:0/month:0/week:0/time:0/datetime-local:0/number:1/range:1/color:0|adownload:0|audiodata:1|webaudio:0|battery:0|details:0;
+[2016-10-17 17:32:04.929], ==============================================
+[2016-10-17 17:32:04.929], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: PRESENTATION_TYPE, Values: 
+[2016-10-17 17:32:04.929], ==============================================
+[2016-10-17 17:32:04.929], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: DEVICE_SIZE_INFO, Values: {"screenWidth":"1536","screenHeight":"826","documentWidth":"1536","documentHeight":"770","bodyWidth":"1536","bodyHeight":"234","windowWidth":"1536","windowHeight":"770","screenOrientation":"L"}
+[2016-10-17 17:32:04.930], ==============================================
+[2016-10-17 17:32:04.930], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: MODE, Values: XX
+[2016-10-17 17:32:04.930], ==============================================
+[2016-10-17 17:32:04.930], ['DEBUG_6' 'null' 'none' 'none' 'none' 'none'], Field: PRODUCT, Values: 
+[2016-10-17 17:32:04.934], ==============================================
+[2016-10-17 17:32:04.934], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Setting up new session.
+[2016-10-17 17:32:04.934], ==============================================
+[2016-10-17 17:32:04.934], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Setting up session info.
+[2016-10-17 17:32:04.934], ==============================================
+[2016-10-17 17:32:04.934], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Presentation Type Name: Test
+[2016-10-17 17:32:04.935], ==============================================
+[2016-10-17 17:32:04.935], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:32:04.935], ==============================================
+[2016-10-17 17:32:04.935], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'none' 'none' 'none'], Product Name: AddSecurityHeader
+[2016-10-17 17:32:04.957], ==============================================
+[2016-10-17 17:32:04.957], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : usePushNotifications
+[2016-10-17 17:32:04.958], ==============================================
+[2016-10-17 17:32:04.958], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:32:04.958], ==============================================
+[2016-10-17 17:32:04.958], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode for Security called: p_applicationMode=XX
+[2016-10-17 17:32:04.985], ==============================================
+[2016-10-17 17:32:04.986], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:32:04.986], ==============================================
+[2016-10-17 17:32:04.986], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode called: p_applicationMode=XX
+[2016-10-17 17:32:04.992], ==============================================
+[2016-10-17 17:32:04.992], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:32:04.999], ==============================================
+[2016-10-17 17:32:04.999], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Showing phase name: AddSecurityHeader.Login
+[2016-10-17 17:32:05.149], ==============================================
+[2016-10-17 17:32:05.149], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : isHybrid
+[2016-10-17 17:32:05.183], ==============================================
+[2016-10-17 17:32:05.183], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : isHybrid
+[2016-10-17 17:32:05.189], ==============================================
+[2016-10-17 17:32:05.189], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none' 'Phase Description'], 
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ * $RCSfile: edge IPK branded.tpl,v $
+ * $Author: europe\aheath $
+ * $Revision: 1.21 $
+ * $Date: 2015/07/14 13:09:49 $
+-->
+  <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta name="author" content="Edge IPK"/>
+      <title>Temenos Rich HTML </title>
+                <style type='text/css'>.accessibilityStyle { position:absolute !important; width:0 !important; height:0 !important; font-size:0 !important; overflow:hidden !important;padding:0 !important} *[align="right"]  { text-align: right; }  *[align="left"]   { text-align: left;  }  *[align="center"] { text-align: center;} </style><style type='text/css'>.ecDIB {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;vertical-align: top;}.ecDIBCol {vertical-align: top;}</style>
+<link id='maincss' title='maincss' rel='stylesheet' type='text/css' href='./html/css/Default.css?1476696725178' />
+
+<script type="text/javascript">
+//<![CDATA[
+var controllerMode = 'XX';
+var pageCode = '&x940dbef4-c927-4428-850b-c356c13f2296=b1bbc932-0088-4f0d-93ca-89c8f0cee42d';
+var rootContext = '/TestFilter';
+var act = '/TestFilter/servletcontroller';
+var popupAct = '/TestFilter/servletcontroller';
+var session = new Array();
+var checkbox = new Array();
+var activeTabName = '';
+var rowClickedIds = new Array();
+var calendarComponents = new Array();
+var submitEnabled = true;
+var enabledControls = new Array();
+var enabledLinks = new Array();
+var forwardsConfirmMsg = '';
+var backConfirmMsg = '';
+var hasSubmitted = false;
+var keyspressed = '';
+var qlrOk = 'Y';
+var invalidQuestions = new Array();
+var calendarPagePath = '/TestFilter/html/calendar.html';
+var calendarPopup = '	<div id="toolbar" onmouseover="this.style.cursor = \'pointer\'" style="height: 20px; width:197px;  ">		<div style="height: 20px; background: rgb(126, 192, 233) url(/TestFilter/images/toolBarBlueGradient.gif) repeat-x scroll 0% 0%; float: left; width: 175px; " onmousedown="try {dragStart(event, \'FloatCalendarDiv\');} catch (e){}">&nbsp;<\\/div>		<div style="background-color: #ffffff;border-top: 2px solid rgb(170, 220, 250); border-right: 2px solid rgb(126, 192, 233); float: left; color: rgb(126, 192, 233); font-family: Arial; text-align: center; width: 20px; height: 18px;" onclick="parentNode.parentNode.style.display = \'none\';" >X<\\/div>		<div style="clear: both"><\\/div>	<\\/div>	<div style="color: #4444BB; font-family: Arial; height:92%; width:100%;">		<iframe id="calendarIframe"  src="javascript:false;" style="height:100%; width:100%; color: #FFFFFF;" scrolling="no" frameBorder="0"			>		    <p>Your browser does not support iframes.<\\/p>		<\\/iframe>	<\\/div>';
+var helpPagePath = '/TestFilter/html/help.html';
+var imageDirPath = '/TestFilter/images/';
+var popupParams = '';
+var clientSideValidation = true;
+var calendars = [];
+var currentX = 390;
+var currentY = 650;
+var SORT_COLUMN_INDEX;
+var CURRENT_YEAR = 2016;
+var CURRENT_THEME = '';
+var focusValue = '';
+var MessagePosition = 'After Answer';
+var MessageTargetId = '';
+var InfoMessagePosition = 'Do Not Show';
+var InfoMessageTargetId = '';
+var WarningMessagePosition = 'Do Not Show';
+var WarningMessageTargetId = '';
+var ShowOneMessage = 'Y';
+var MessagesSeparator = '<br/>';
+var MessagesOrder = 'Errors, Warnings, Info';
+var MandMessage = 'Please answer all the required questions marked with a $$QUESTION_CONSTRAINT$';
+var ValidationMessage = 'Please enter a valid value';
+var InvalidUploadTypeMessage = 'The valid file types you are allowed to upload are: $$QUESTION_CONSTRAINT$';
+var InvalidMaxFileSizeMessage = 'The maximum file size allowed is $$QUESTION_CONSTRAINT$k';
+var InvalidAlphaNumericMessage = 'Please re-enter using letters and numbers';
+var InvalidAlphaMessage = 'Please re-enter using letters';
+var InvalidNumMessage = 'Please enter a valid number';
+var InvalidDecimalMessage = 'Please enter a valid decimal number';
+var InvalidDateMessage = 'Please enter a valid date in the form: $$QUESTION_CONSTRAINT$';
+var InvalidTimeMessage = 'Please enter a valid time in the form: $$QUESTION_CONSTRAINT$';
+var InvalidMaxValueMessage = 'The maximum value is $$QUESTION_CONSTRAINT$';
+var InvalidMinValueMessage = 'The minimum value is $$QUESTION_CONSTRAINT$';
+var InvalidMaxLengthMessage = 'The maximum length is $$QUESTION_CONSTRAINT$';
+var InvalidMinLengthMessage = 'The minimum length is $$QUESTION_CONSTRAINT$';
+var InvalidDaysInMonthMessage = 'There are not that many days in the specified month';
+var InvalidLeapYearMessage = 'The specified year is not a leap year';
+var InvalidMaxDateMessage = 'The latest date is $$QUESTION_CONSTRAINT$';
+var InvalidMinDateMessage = 'The earliest date is $$QUESTION_CONSTRAINT$';
+//]]>
+</script>
+
+<script type="text/javascript" src="/TestFilter/html/js/calendar1.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/jsep.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/spellcheck-caller.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_ajax.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_transferable_list.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_validation.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_help.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_divs.js?version_5.4.1__5"></script>
+
+
+        
+
+    </head>
+    <body style="margin:0px;" class="BrowserWindow">
+
+
+        <!-- UNCOMMENT IFRAME IF USING AUTOCOMPLETE - PROVIDES WORK-AROUND FOR IE6 ISSUE -->
+    <!--iframe id="ec_suggest_iframe" style="position:absolute; left:0; top:0px; width:0px; height: 0px; " ></iframe-->
+    <form id="form1" method="post" action="servletcontroller" onsubmit="return false;">
+      <div><input type="hidden" name="MODE"/></div>
+      
+      	<div><input type="hidden" name="x940dbef4-c927-4428-850b-c356c13f2296" value="b1bbc932-0088-4f0d-93ca-89c8f0cee42d"/></div>
+      
+      <div><input type="hidden" name="MENUSTATE"/></div>
+
+	 <!-- don't show the branding in a popup -->
+	    <div style="background-image: url(/TestFilter/images/edgeBanner.jpg); width: 100%; height: 150px"></div>
+	
+      <!-- To center the contents of your form, set style="text-align:center;" on the form tag (works in IE), 
+          and style="margin-left:auto; margin-right:auto;" on the following table (works in Mozilla) -->
+          
+              <div style="width: 100%">
+                      
+                      
+          
+             <div style="display: none;"><input type="hidden" name="DEVICE_SIZE_INFO" value=""/></div><div style="clear: both" class="GlobalFont Color1  " id="EDGE_CONNECT_PROCESS"><div style="clear: both; width: 100%"></div><div style="clear: both" id="EDGE_CONNECT_PHASE"><div style="clear: both; width: 100%"><div style="clear: left;" id="row_BUT_B0C2E252A313E33B572"><div id="p1_BUT_B0C2E252A313E33B572" style="float: left;width: 48%;"><div style="padding: 4px">&nbsp;</div></div><div id="p2_BUT_B0C2E252A313E33B572" style="float: left;width: 2%;"><div style="padding: 4px">&nbsp;</div></div><div id="p3_BUT_B0C2E252A313E33B572" style="float: left;width: 1%;"><div style="padding: 4px">&nbsp;</div></div><div style="text-align: left; width: 49%;  float: left;  " id="p4_BUT_B0C2E252A313E33B572"><div style="padding: 4px"><button title="Login" onclick="return buttonClicked('__B0C2E252A313E33B FormButton 1', false, null, '', false, 'BUT_B0C2E252A313E33B572', true, false, '', true, true, 'preInPhase');" type="button" name="__B0C2E252A313E33B FormButton 1" onmouseover="this.style.cursor='pointer'" value="Login" class="Color1 RightAlignedImage ActionArrow" id="BUT_B0C2E252A313E33B572">Login</button></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div>
+          
+                
+                    <div style="clear:both"></div>
+                
+              </div>
+               
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+
+forwardsConfirmMsg="";
+backConfirmMsg="";
+MANDCHAR='*';
+
+function initForm(p_namespace) {
+if ( null == p_namespace ) p_namespace = '';
+if ( beforeInitForm(p_namespace) == false ) return ;
+showECForm(p_namespace);
+showServerSideValidationMessagesPopup(p_namespace);
+afterInitForm(p_namespace);
+}
+var tid = setInterval( function () { 
+    if ( document.readyState !== 'complete' ) return; 
+    clearInterval( tid );   
+    initForm('');
+
+}, 100 );
+
+function showECForm(p_ns){
+}
+function hideECForm(p_ns, p_mode, p_scroll, p_id){
+return true;}
+//]]>
+
+</script>
+
+
+
+  
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+
+</script>
+</body>
+</html>
+
+
+
+[2016-10-17 17:32:05.196], ==============================================
+[2016-10-17 17:32:05.196], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Application Server session timeout set to: 1800
+[2016-10-17 17:32:07.619], ==============================================
+[2016-10-17 17:32:07.619], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Query String null
+[2016-10-17 17:32:07.620], ==============================================
+[2016-10-17 17:32:07.620], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Mode: __B0C2E252A313E33B FormButton 1
+[2016-10-17 17:32:07.621], ==============================================
+[2016-10-17 17:32:07.621], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Page Requested: 0, Current Session Page: 0
+[2016-10-17 17:32:07.621], ==============================================
+[2016-10-17 17:32:07.621], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Product Requested: null
+[2016-10-17 17:32:07.621], ==============================================
+[2016-10-17 17:32:07.622], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Presentation Type Requested: null
+[2016-10-17 17:32:07.622], ==============================================
+[2016-10-17 17:32:07.622], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: MENUSTATE, Values: 
+[2016-10-17 17:32:07.622], ==============================================
+[2016-10-17 17:32:07.623], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: DEVICE_SIZE_INFO, Values: 
+[2016-10-17 17:32:07.623], ==============================================
+[2016-10-17 17:32:07.623], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: x940dbef4-c927-4428-850b-c356c13f2296, Values: b1bbc932-0088-4f0d-93ca-89c8f0cee42d
+[2016-10-17 17:32:07.623], ==============================================
+[2016-10-17 17:32:07.624], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: MODE, Values: __B0C2E252A313E33B FormButton 1
+[2016-10-17 17:32:07.624], ==============================================
+[2016-10-17 17:32:07.624], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : usePushNotifications
+[2016-10-17 17:32:07.625], ==============================================
+[2016-10-17 17:32:07.625], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = null
+[2016-10-17 17:32:07.625], ==============================================
+[2016-10-17 17:32:07.625], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode for Security called: p_applicationMode=__B0C2E252A313E33B FormButton 1
+[2016-10-17 17:32:07.628], ==============================================
+[2016-10-17 17:32:07.628], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = null
+[2016-10-17 17:32:07.630], ==============================================
+[2016-10-17 17:32:07.630], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode called: p_applicationMode=__B0C2E252A313E33B FormButton 1
+[2016-10-17 17:32:07.630], ==============================================
+[2016-10-17 17:32:07.631], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'none'], Button/Nav Item/Breadcrumb with name B0C2E252A313E33B FormButton 1 pressed.
+[2016-10-17 17:32:07.632], ==============================================
+[2016-10-17 17:32:07.632], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'Set Value' 'Rules Engine'], Evaluating rule Set Value with set Http Session Variable value WSACookie from WSACookie
+[2016-10-17 17:32:07.633], ==============================================
+[2016-10-17 17:32:07.633], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'Set Value' 'Set Value Rule: Set Value'], Setting Http Session Variable WSACookie with value WSACookie
+[2016-10-17 17:32:07.634], ==============================================
+[2016-10-17 17:32:07.635], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'Goto Phase' 'Rules Engine'], Evaluating rule Goto Phase with Go Forward to a Named Phase: Phase 'AddSecurityHeader.Home Page'
+[2016-10-17 17:32:07.635], ==============================================
+[2016-10-17 17:32:07.635], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Login' 'Goto Phase' 'Goto Phase Rule: Goto Phase'], Adding named phase AddSecurityHeader.Home Page to stack.
+[2016-10-17 17:32:07.637], ==============================================
+[2016-10-17 17:32:07.638], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Home Page' 'Set Value' 'Rules Engine'], Evaluating rule Set Value with set Data Item value WSACookie from $$HTTP_HEADER.cookie$
+[2016-10-17 17:32:07.639], ==============================================
+[2016-10-17 17:32:07.639], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Home Page' 'Set Value' 'Set Value Rule: Set Value'], Setting Data Item WSACOOKIE with value JSESSIONID=ik2w9wtmwykou08rls06jwzz
+[2016-10-17 17:32:07.668], ==============================================
+[2016-10-17 17:32:07.669], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:32:07.669], ==============================================
+[2016-10-17 17:32:07.669], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Showing phase name: AddSecurityHeader.Home Page
+[2016-10-17 17:32:07.716], ==============================================
+[2016-10-17 17:32:07.716], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Property not found : isHybrid
+[2016-10-17 17:32:07.754], ==============================================
+[2016-10-17 17:32:07.754], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Property not found : isHybrid
+[2016-10-17 17:32:07.762], ==============================================
+[2016-10-17 17:32:07.762], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Home Page' 'none' 'Phase Description'], 
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ * $RCSfile: edge IPK branded.tpl,v $
+ * $Author: europe\aheath $
+ * $Revision: 1.21 $
+ * $Date: 2015/07/14 13:09:49 $
+-->
+  <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta name="author" content="Edge IPK"/>
+      <title>Temenos Rich HTML </title>
+                <style type='text/css'>.accessibilityStyle { position:absolute !important; width:0 !important; height:0 !important; font-size:0 !important; overflow:hidden !important;padding:0 !important} *[align="right"]  { text-align: right; }  *[align="left"]   { text-align: left;  }  *[align="center"] { text-align: center;} </style><style type='text/css'>.ecDIB {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;vertical-align: top;}.ecDIBCol {vertical-align: top;}</style>
+<link id='maincss' title='maincss' rel='stylesheet' type='text/css' href='./html/css/Default.css?1476696727743' />
+
+<script type="text/javascript">
+//<![CDATA[
+var controllerMode = 'XX';
+var pageCode = '&x7c344119-4694-4744-821d-faa15a29e69a=bb4301c9-d258-4f84-8954-e05983ca02e1';
+var rootContext = '/TestFilter';
+var act = '/TestFilter/servletcontroller';
+var popupAct = '/TestFilter/servletcontroller';
+var session = new Array();
+var checkbox = new Array();
+var activeTabName = '';
+var rowClickedIds = new Array();
+var calendarComponents = new Array();
+var submitEnabled = true;
+var enabledControls = new Array();
+var enabledLinks = new Array();
+var forwardsConfirmMsg = '';
+var backConfirmMsg = '';
+var hasSubmitted = false;
+var keyspressed = '';
+var qlrOk = 'Y';
+var invalidQuestions = new Array();
+var calendarPagePath = '/TestFilter/html/calendar.html';
+var calendarPopup = '	<div id="toolbar" onmouseover="this.style.cursor = \'pointer\'" style="height: 20px; width:197px;  ">		<div style="height: 20px; background: rgb(126, 192, 233) url(/TestFilter/images/toolBarBlueGradient.gif) repeat-x scroll 0% 0%; float: left; width: 175px; " onmousedown="try {dragStart(event, \'FloatCalendarDiv\');} catch (e){}">&nbsp;<\\/div>		<div style="background-color: #ffffff;border-top: 2px solid rgb(170, 220, 250); border-right: 2px solid rgb(126, 192, 233); float: left; color: rgb(126, 192, 233); font-family: Arial; text-align: center; width: 20px; height: 18px;" onclick="parentNode.parentNode.style.display = \'none\';" >X<\\/div>		<div style="clear: both"><\\/div>	<\\/div>	<div style="color: #4444BB; font-family: Arial; height:92%; width:100%;">		<iframe id="calendarIframe"  src="javascript:false;" style="height:100%; width:100%; color: #FFFFFF;" scrolling="no" frameBorder="0"			>		    <p>Your browser does not support iframes.<\\/p>		<\\/iframe>	<\\/div>';
+var helpPagePath = '/TestFilter/html/help.html';
+var imageDirPath = '/TestFilter/images/';
+var popupParams = '';
+var clientSideValidation = true;
+var calendars = [];
+var currentX = 390;
+var currentY = 650;
+var SORT_COLUMN_INDEX;
+var CURRENT_YEAR = 2016;
+var CURRENT_THEME = '';
+var focusValue = '';
+var MessagePosition = 'After Answer';
+var MessageTargetId = '';
+var InfoMessagePosition = 'Do Not Show';
+var InfoMessageTargetId = '';
+var WarningMessagePosition = 'Do Not Show';
+var WarningMessageTargetId = '';
+var ShowOneMessage = 'Y';
+var MessagesSeparator = '<br/>';
+var MessagesOrder = 'Errors, Warnings, Info';
+var MandMessage = 'Please answer all the required questions marked with a $$QUESTION_CONSTRAINT$';
+var ValidationMessage = 'Please enter a valid value';
+var InvalidUploadTypeMessage = 'The valid file types you are allowed to upload are: $$QUESTION_CONSTRAINT$';
+var InvalidMaxFileSizeMessage = 'The maximum file size allowed is $$QUESTION_CONSTRAINT$k';
+var InvalidAlphaNumericMessage = 'Please re-enter using letters and numbers';
+var InvalidAlphaMessage = 'Please re-enter using letters';
+var InvalidNumMessage = 'Please enter a valid number';
+var InvalidDecimalMessage = 'Please enter a valid decimal number';
+var InvalidDateMessage = 'Please enter a valid date in the form: $$QUESTION_CONSTRAINT$';
+var InvalidTimeMessage = 'Please enter a valid time in the form: $$QUESTION_CONSTRAINT$';
+var InvalidMaxValueMessage = 'The maximum value is $$QUESTION_CONSTRAINT$';
+var InvalidMinValueMessage = 'The minimum value is $$QUESTION_CONSTRAINT$';
+var InvalidMaxLengthMessage = 'The maximum length is $$QUESTION_CONSTRAINT$';
+var InvalidMinLengthMessage = 'The minimum length is $$QUESTION_CONSTRAINT$';
+var InvalidDaysInMonthMessage = 'There are not that many days in the specified month';
+var InvalidLeapYearMessage = 'The specified year is not a leap year';
+var InvalidMaxDateMessage = 'The latest date is $$QUESTION_CONSTRAINT$';
+var InvalidMinDateMessage = 'The earliest date is $$QUESTION_CONSTRAINT$';
+//]]>
+</script>
+
+<script type="text/javascript" src="/TestFilter/html/js/calendar1.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/jsep.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/spellcheck-caller.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_ajax.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_transferable_list.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_validation.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_help.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_divs.js?version_5.4.1__5"></script>
+
+
+        
+
+    </head>
+    <body style="margin:0px;" class="BrowserWindow">
+
+
+        <!-- UNCOMMENT IFRAME IF USING AUTOCOMPLETE - PROVIDES WORK-AROUND FOR IE6 ISSUE -->
+    <!--iframe id="ec_suggest_iframe" style="position:absolute; left:0; top:0px; width:0px; height: 0px; " ></iframe-->
+    <form id="form1" method="post" action="servletcontroller" onsubmit="return false;">
+      <div><input type="hidden" name="MODE"/></div>
+      
+      	<div><input type="hidden" name="x7c344119-4694-4744-821d-faa15a29e69a" value="bb4301c9-d258-4f84-8954-e05983ca02e1"/></div>
+      
+      <div><input type="hidden" name="MENUSTATE"/></div>
+
+	 <!-- don't show the branding in a popup -->
+	    <div style="background-image: url(/TestFilter/images/edgeBanner.jpg); width: 100%; height: 150px"></div>
+	
+      <!-- To center the contents of your form, set style="text-align:center;" on the form tag (works in IE), 
+          and style="margin-left:auto; margin-right:auto;" on the following table (works in Mozilla) -->
+          
+              <div style="width: 100%">
+                      
+                      
+          
+             <div style="display: none;"><input type="hidden" name="DEVICE_SIZE_INFO" value=""/></div><div style="clear: both" class="GlobalFont Color1  " id="EDGE_CONNECT_PROCESS"><div style="clear: both; width: 100%"></div><div style="clear: both" id="EDGE_CONNECT_PHASE"><div style="clear: both; width: 100%"><div style="clear: left;" id="row_HEAD_B0C2E252A313E33B577"><div id="p1_HEAD_B0C2E252A313E33B577" style="text-align: left; ; float: left;width: 100.0%;" class="VLargeFont Color2 Bold"><div style="padding: 4px">Logged In. Cookie :  JSESSIONID=ik2w9wtmwykou08rls06jwzz</div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div>
+          
+                
+                    <div style="clear:both"></div>
+                
+              </div>
+               
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+
+forwardsConfirmMsg="";
+backConfirmMsg="";
+MANDCHAR='*';
+
+function initForm(p_namespace) {
+if ( null == p_namespace ) p_namespace = '';
+if ( beforeInitForm(p_namespace) == false ) return ;
+showECForm(p_namespace);
+showServerSideValidationMessagesPopup(p_namespace);
+afterInitForm(p_namespace);
+}
+var tid = setInterval( function () { 
+    if ( document.readyState !== 'complete' ) return; 
+    clearInterval( tid );   
+    initForm('');
+
+}, 100 );
+
+function showECForm(p_ns){
+}
+function hideECForm(p_ns, p_mode, p_scroll, p_id){
+return true;}
+//]]>
+
+</script>
+
+
+
+  
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+
+</script>
+</body>
+</html>
+
+
+
+[2016-10-17 17:32:07.763], ==============================================
+[2016-10-17 17:32:07.764], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Application Server session timeout set to: 1800
+[2016-10-17 17:36:39.162], ==============================================
+[2016-10-17 17:36:39.163], ['DEBUG_4' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Query String null
+[2016-10-17 17:36:39.173], ==============================================
+[2016-10-17 17:36:39.174], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Mode: XX
+[2016-10-17 17:36:39.175], ==============================================
+[2016-10-17 17:36:39.175], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Page Requested: null, Current Session Page: 0
+[2016-10-17 17:36:39.176], ==============================================
+[2016-10-17 17:36:39.176], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Product Requested: 
+[2016-10-17 17:36:39.177], ==============================================
+[2016-10-17 17:36:39.177], ['DEBUG_3' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Presentation Type Requested: 
+[2016-10-17 17:36:39.178], ==============================================
+[2016-10-17 17:36:39.178], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Field: DEVICE_INFO, Values: 
+[2016-10-17 17:36:39.180], ==============================================
+[2016-10-17 17:36:39.180], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Field: BROWSER_FEATURES, Values: flexbox:1|canvas:1|canvastext:1|webgl:1|touch:0|geolocation:1|postmessage:1|websqldatabase:0|indexeddb:1|hashchange:1|history:1|draganddrop:1|websockets:1|rgba:1|hsla:1|multiplebgs:1|backgroundsize:1|borderimage:1|borderradius:1|boxshadow:1|textshadow:1|opacity:1|cssanimations:1|csscolumns:1|cssgradients:1|cssreflections:0|csstransforms:1|csstransforms3d:1|csstransitions:1|fontface:1|generatedcontent:1|video:/ogg:0/h264:1/webm:0|audio:/ogg:0/mp3:1/wav:0/m4a:1|localstorage:1|sessionstorage:1|webworkers:1|applicationcache:1|svg:1|inlinesvg:1|smil:0|svgclippaths:1|input:/autocomplete:1/autofocus:1/list:1/placeholder:1/max:1/min:1/multiple:1/pattern:1/required:1/step:1|inputtypes:/search:1/tel:1/url:1/email:1/datetime:0/date:0/month:0/week:0/time:0/datetime-local:0/number:1/range:1/color:0|adownload:0|audiodata:1|webaudio:0|battery:0|details:0;
+[2016-10-17 17:36:39.181], ==============================================
+[2016-10-17 17:36:39.181], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Field: PRESENTATION_TYPE, Values: 
+[2016-10-17 17:36:39.184], ==============================================
+[2016-10-17 17:36:39.184], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Field: DEVICE_SIZE_INFO, Values: {"screenWidth":"1536","screenHeight":"826","documentWidth":"1536","documentHeight":"770","bodyWidth":"1536","bodyHeight":"234","windowWidth":"1536","windowHeight":"770","screenOrientation":"L"}
+[2016-10-17 17:36:39.185], ==============================================
+[2016-10-17 17:36:39.185], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Field: MODE, Values: XX
+[2016-10-17 17:36:39.186], ==============================================
+[2016-10-17 17:36:39.187], ['DEBUG_6' 'ik2w9wtmwykou08rls06jwzz' 'none' 'none' 'none' 'none'], Field: PRODUCT, Values: 
+[2016-10-17 17:36:39.188], ==============================================
+[2016-10-17 17:36:39.188], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'none' 'none' 'none' 'none'], Setting up new session.
+[2016-10-17 17:36:39.189], ==============================================
+[2016-10-17 17:36:39.189], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'none' 'none' 'none' 'none'], Setting up session info.
+[2016-10-17 17:36:39.190], ==============================================
+[2016-10-17 17:36:39.190], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'none' 'none' 'none' 'none'], Presentation Type Name: Test
+[2016-10-17 17:36:39.191], ==============================================
+[2016-10-17 17:36:39.191], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'none' 'none' 'none' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:36:39.192], ==============================================
+[2016-10-17 17:36:39.192], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'none' 'none' 'none'], Product Name: AddSecurityHeader
+[2016-10-17 17:36:39.196], ==============================================
+[2016-10-17 17:36:39.196], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : usePushNotifications
+[2016-10-17 17:36:39.197], ==============================================
+[2016-10-17 17:36:39.197], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:36:39.197], ==============================================
+[2016-10-17 17:36:39.197], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode for Security called: p_applicationMode=XX
+[2016-10-17 17:36:39.201], ==============================================
+[2016-10-17 17:36:39.202], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:36:39.202], ==============================================
+[2016-10-17 17:36:39.202], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode called: p_applicationMode=XX
+[2016-10-17 17:36:39.203], ==============================================
+[2016-10-17 17:36:39.203], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:36:39.203], ==============================================
+[2016-10-17 17:36:39.204], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Showing phase name: AddSecurityHeader.Login
+[2016-10-17 17:36:39.227], ==============================================
+[2016-10-17 17:36:39.227], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : isHybrid
+[2016-10-17 17:36:39.254], ==============================================
+[2016-10-17 17:36:39.254], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : isHybrid
+[2016-10-17 17:36:39.259], ==============================================
+[2016-10-17 17:36:39.260], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none' 'Phase Description'], 
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ * $RCSfile: edge IPK branded.tpl,v $
+ * $Author: europe\aheath $
+ * $Revision: 1.21 $
+ * $Date: 2015/07/14 13:09:49 $
+-->
+  <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta name="author" content="Edge IPK"/>
+      <title>Temenos Rich HTML </title>
+                <style type='text/css'>.accessibilityStyle { position:absolute !important; width:0 !important; height:0 !important; font-size:0 !important; overflow:hidden !important;padding:0 !important} *[align="right"]  { text-align: right; }  *[align="left"]   { text-align: left;  }  *[align="center"] { text-align: center;} </style><style type='text/css'>.ecDIB {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;vertical-align: top;}.ecDIBCol {vertical-align: top;}</style>
+<link id='maincss' title='maincss' rel='stylesheet' type='text/css' href='./html/css/Default.css?1476696999250' />
+
+<script type="text/javascript">
+//<![CDATA[
+var controllerMode = 'XX';
+var pageCode = '&x904303eb-c986-4c32-a12a-7e32e2ac80a6=f6fe4802-e1a3-43d4-800d-b2d8bb0ecb18';
+var rootContext = '/TestFilter';
+var act = '/TestFilter/servletcontroller';
+var popupAct = '/TestFilter/servletcontroller';
+var session = new Array();
+var checkbox = new Array();
+var activeTabName = '';
+var rowClickedIds = new Array();
+var calendarComponents = new Array();
+var submitEnabled = true;
+var enabledControls = new Array();
+var enabledLinks = new Array();
+var forwardsConfirmMsg = '';
+var backConfirmMsg = '';
+var hasSubmitted = false;
+var keyspressed = '';
+var qlrOk = 'Y';
+var invalidQuestions = new Array();
+var calendarPagePath = '/TestFilter/html/calendar.html';
+var calendarPopup = '	<div id="toolbar" onmouseover="this.style.cursor = \'pointer\'" style="height: 20px; width:197px;  ">		<div style="height: 20px; background: rgb(126, 192, 233) url(/TestFilter/images/toolBarBlueGradient.gif) repeat-x scroll 0% 0%; float: left; width: 175px; " onmousedown="try {dragStart(event, \'FloatCalendarDiv\');} catch (e){}">&nbsp;<\\/div>		<div style="background-color: #ffffff;border-top: 2px solid rgb(170, 220, 250); border-right: 2px solid rgb(126, 192, 233); float: left; color: rgb(126, 192, 233); font-family: Arial; text-align: center; width: 20px; height: 18px;" onclick="parentNode.parentNode.style.display = \'none\';" >X<\\/div>		<div style="clear: both"><\\/div>	<\\/div>	<div style="color: #4444BB; font-family: Arial; height:92%; width:100%;">		<iframe id="calendarIframe"  src="javascript:false;" style="height:100%; width:100%; color: #FFFFFF;" scrolling="no" frameBorder="0"			>		    <p>Your browser does not support iframes.<\\/p>		<\\/iframe>	<\\/div>';
+var helpPagePath = '/TestFilter/html/help.html';
+var imageDirPath = '/TestFilter/images/';
+var popupParams = '';
+var clientSideValidation = true;
+var calendars = [];
+var currentX = 390;
+var currentY = 650;
+var SORT_COLUMN_INDEX;
+var CURRENT_YEAR = 2016;
+var CURRENT_THEME = '';
+var focusValue = '';
+var MessagePosition = 'After Answer';
+var MessageTargetId = '';
+var InfoMessagePosition = 'Do Not Show';
+var InfoMessageTargetId = '';
+var WarningMessagePosition = 'Do Not Show';
+var WarningMessageTargetId = '';
+var ShowOneMessage = 'Y';
+var MessagesSeparator = '<br/>';
+var MessagesOrder = 'Errors, Warnings, Info';
+var MandMessage = 'Please answer all the required questions marked with a $$QUESTION_CONSTRAINT$';
+var ValidationMessage = 'Please enter a valid value';
+var InvalidUploadTypeMessage = 'The valid file types you are allowed to upload are: $$QUESTION_CONSTRAINT$';
+var InvalidMaxFileSizeMessage = 'The maximum file size allowed is $$QUESTION_CONSTRAINT$k';
+var InvalidAlphaNumericMessage = 'Please re-enter using letters and numbers';
+var InvalidAlphaMessage = 'Please re-enter using letters';
+var InvalidNumMessage = 'Please enter a valid number';
+var InvalidDecimalMessage = 'Please enter a valid decimal number';
+var InvalidDateMessage = 'Please enter a valid date in the form: $$QUESTION_CONSTRAINT$';
+var InvalidTimeMessage = 'Please enter a valid time in the form: $$QUESTION_CONSTRAINT$';
+var InvalidMaxValueMessage = 'The maximum value is $$QUESTION_CONSTRAINT$';
+var InvalidMinValueMessage = 'The minimum value is $$QUESTION_CONSTRAINT$';
+var InvalidMaxLengthMessage = 'The maximum length is $$QUESTION_CONSTRAINT$';
+var InvalidMinLengthMessage = 'The minimum length is $$QUESTION_CONSTRAINT$';
+var InvalidDaysInMonthMessage = 'There are not that many days in the specified month';
+var InvalidLeapYearMessage = 'The specified year is not a leap year';
+var InvalidMaxDateMessage = 'The latest date is $$QUESTION_CONSTRAINT$';
+var InvalidMinDateMessage = 'The earliest date is $$QUESTION_CONSTRAINT$';
+//]]>
+</script>
+
+<script type="text/javascript" src="/TestFilter/html/js/calendar1.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/jsep.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/spellcheck-caller.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_ajax.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_transferable_list.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_validation.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_help.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_divs.js?version_5.4.1__5"></script>
+
+
+        
+
+    </head>
+    <body style="margin:0px;" class="BrowserWindow">
+
+
+        <!-- UNCOMMENT IFRAME IF USING AUTOCOMPLETE - PROVIDES WORK-AROUND FOR IE6 ISSUE -->
+    <!--iframe id="ec_suggest_iframe" style="position:absolute; left:0; top:0px; width:0px; height: 0px; " ></iframe-->
+    <form id="form1" method="post" action="servletcontroller" onsubmit="return false;">
+      <div><input type="hidden" name="MODE"/></div>
+      
+      	<div><input type="hidden" name="x904303eb-c986-4c32-a12a-7e32e2ac80a6" value="f6fe4802-e1a3-43d4-800d-b2d8bb0ecb18"/></div>
+      
+      <div><input type="hidden" name="MENUSTATE"/></div>
+
+	 <!-- don't show the branding in a popup -->
+	    <div style="background-image: url(/TestFilter/images/edgeBanner.jpg); width: 100%; height: 150px"></div>
+	
+      <!-- To center the contents of your form, set style="text-align:center;" on the form tag (works in IE), 
+          and style="margin-left:auto; margin-right:auto;" on the following table (works in Mozilla) -->
+          
+              <div style="width: 100%">
+                      
+                      
+          
+             <div style="display: none;"><input type="hidden" name="DEVICE_SIZE_INFO" value=""/></div><div style="clear: both" class="GlobalFont Color1  " id="EDGE_CONNECT_PROCESS"><div style="clear: both; width: 100%"></div><div style="clear: both" id="EDGE_CONNECT_PHASE"><div style="clear: both; width: 100%"><div style="clear: left;" id="row_BUT_B0C2E252A313E33B572"><div id="p1_BUT_B0C2E252A313E33B572" style="float: left;width: 48%;"><div style="padding: 4px">&nbsp;</div></div><div id="p2_BUT_B0C2E252A313E33B572" style="float: left;width: 2%;"><div style="padding: 4px">&nbsp;</div></div><div id="p3_BUT_B0C2E252A313E33B572" style="float: left;width: 1%;"><div style="padding: 4px">&nbsp;</div></div><div style="text-align: left; width: 49%;  float: left;  " id="p4_BUT_B0C2E252A313E33B572"><div style="padding: 4px"><button title="Login" onclick="return buttonClicked('__B0C2E252A313E33B FormButton 1', false, null, '', false, 'BUT_B0C2E252A313E33B572', true, false, '', true, true, 'preInPhase');" type="button" name="__B0C2E252A313E33B FormButton 1" onmouseover="this.style.cursor='pointer'" value="Login" class="Color1 RightAlignedImage ActionArrow" id="BUT_B0C2E252A313E33B572">Login</button></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div>
+          
+                
+                    <div style="clear:both"></div>
+                
+              </div>
+               
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+
+forwardsConfirmMsg="";
+backConfirmMsg="";
+MANDCHAR='*';
+
+function initForm(p_namespace) {
+if ( null == p_namespace ) p_namespace = '';
+if ( beforeInitForm(p_namespace) == false ) return ;
+showECForm(p_namespace);
+showServerSideValidationMessagesPopup(p_namespace);
+afterInitForm(p_namespace);
+}
+var tid = setInterval( function () { 
+    if ( document.readyState !== 'complete' ) return; 
+    clearInterval( tid );   
+    initForm('');
+
+}, 100 );
+
+function showECForm(p_ns){
+}
+function hideECForm(p_ns, p_mode, p_scroll, p_id){
+return true;}
+//]]>
+
+</script>
+
+
+
+  
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+
+</script>
+</body>
+</html>
+
+
+
+[2016-10-17 17:36:39.260], ==============================================
+[2016-10-17 17:36:39.260], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Application Server session timeout set to: 1800
+[2016-10-17 17:36:40.945], ==============================================
+[2016-10-17 17:36:40.946], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Query String null
+[2016-10-17 17:36:40.946], ==============================================
+[2016-10-17 17:36:40.947], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Mode: __B0C2E252A313E33B FormButton 1
+[2016-10-17 17:36:40.947], ==============================================
+[2016-10-17 17:36:40.947], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Page Requested: 0, Current Session Page: 0
+[2016-10-17 17:36:40.947], ==============================================
+[2016-10-17 17:36:40.947], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Product Requested: null
+[2016-10-17 17:36:40.948], ==============================================
+[2016-10-17 17:36:40.948], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Presentation Type Requested: null
+[2016-10-17 17:36:40.948], ==============================================
+[2016-10-17 17:36:40.948], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: MENUSTATE, Values: 
+[2016-10-17 17:36:40.949], ==============================================
+[2016-10-17 17:36:40.949], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: DEVICE_SIZE_INFO, Values: 
+[2016-10-17 17:36:40.950], ==============================================
+[2016-10-17 17:36:40.950], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: MODE, Values: __B0C2E252A313E33B FormButton 1
+[2016-10-17 17:36:40.950], ==============================================
+[2016-10-17 17:36:40.950], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Field: x904303eb-c986-4c32-a12a-7e32e2ac80a6, Values: f6fe4802-e1a3-43d4-800d-b2d8bb0ecb18
+[2016-10-17 17:36:40.951], ==============================================
+[2016-10-17 17:36:40.951], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Property not found : usePushNotifications
+[2016-10-17 17:36:40.951], ==============================================
+[2016-10-17 17:36:40.952], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = null
+[2016-10-17 17:36:40.952], ==============================================
+[2016-10-17 17:36:40.952], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode for Security called: p_applicationMode=__B0C2E252A313E33B FormButton 1
+[2016-10-17 17:36:40.960], ==============================================
+[2016-10-17 17:36:40.961], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], getPresentationType p_presentationTypeName = null
+[2016-10-17 17:36:40.961], ==============================================
+[2016-10-17 17:36:40.961], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Process Mode called: p_applicationMode=__B0C2E252A313E33B FormButton 1
+[2016-10-17 17:36:40.962], ==============================================
+[2016-10-17 17:36:40.962], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'none'], Button/Nav Item/Breadcrumb with name B0C2E252A313E33B FormButton 1 pressed.
+[2016-10-17 17:36:40.963], ==============================================
+[2016-10-17 17:36:40.963], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'Set Value' 'Rules Engine'], Evaluating rule Set Value with set Http Session Variable value WSACookie from WSACookie
+[2016-10-17 17:36:40.963], ==============================================
+[2016-10-17 17:36:40.963], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'Set Value' 'Set Value Rule: Set Value'], Setting Http Session Variable WSACookie with value WSACookie
+[2016-10-17 17:36:40.964], ==============================================
+[2016-10-17 17:36:40.964], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'Goto Phase' 'Rules Engine'], Evaluating rule Goto Phase with Go Forward to a Named Phase: Phase 'AddSecurityHeader.Home Page'
+[2016-10-17 17:36:40.964], ==============================================
+[2016-10-17 17:36:40.964], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Login' 'Goto Phase' 'Goto Phase Rule: Goto Phase'], Adding named phase AddSecurityHeader.Home Page to stack.
+[2016-10-17 17:36:40.965], ==============================================
+[2016-10-17 17:36:40.965], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Home Page' 'Set Value' 'Rules Engine'], Evaluating rule Set Value with set Data Item value WSACookie from $$HTTP_HEADER.cookie$
+[2016-10-17 17:36:40.966], ==============================================
+[2016-10-17 17:36:40.966], ['DEBUG_4' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Home Page' 'Set Value' 'Set Value Rule: Set Value'], Setting Data Item WSACOOKIE with value JSESSIONID=17se7sfvqlfey10ww8d64pihc9; WSASID=null
+[2016-10-17 17:36:40.967], ==============================================
+[2016-10-17 17:36:40.968], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], getPresentationType p_presentationTypeName = Test
+[2016-10-17 17:36:40.968], ==============================================
+[2016-10-17 17:36:40.968], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Showing phase name: AddSecurityHeader.Home Page
+[2016-10-17 17:36:41.002], ==============================================
+[2016-10-17 17:36:41.002], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Property not found : isHybrid
+[2016-10-17 17:36:41.026], ==============================================
+[2016-10-17 17:36:41.026], ['DEBUG_3' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Property not found : isHybrid
+[2016-10-17 17:36:41.031], ==============================================
+[2016-10-17 17:36:41.031], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Home Page' 'none' 'Phase Description'], 
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ * $RCSfile: edge IPK branded.tpl,v $
+ * $Author: europe\aheath $
+ * $Revision: 1.21 $
+ * $Date: 2015/07/14 13:09:49 $
+-->
+  <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+    <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta name="author" content="Edge IPK"/>
+      <title>Temenos Rich HTML </title>
+                <style type='text/css'>.accessibilityStyle { position:absolute !important; width:0 !important; height:0 !important; font-size:0 !important; overflow:hidden !important;padding:0 !important} *[align="right"]  { text-align: right; }  *[align="left"]   { text-align: left;  }  *[align="center"] { text-align: center;} </style><style type='text/css'>.ecDIB {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;vertical-align: top;}.ecDIBCol {vertical-align: top;}</style>
+<link id='maincss' title='maincss' rel='stylesheet' type='text/css' href='./html/css/Default.css?1476697001022' />
+
+<script type="text/javascript">
+//<![CDATA[
+var controllerMode = 'XX';
+var pageCode = '&x3dbe63e1-542c-41c4-a310-8daf1df3d782=25782d9a-fe54-41ec-a213-7eabb8b7e8e2';
+var rootContext = '/TestFilter';
+var act = '/TestFilter/servletcontroller';
+var popupAct = '/TestFilter/servletcontroller';
+var session = new Array();
+var checkbox = new Array();
+var activeTabName = '';
+var rowClickedIds = new Array();
+var calendarComponents = new Array();
+var submitEnabled = true;
+var enabledControls = new Array();
+var enabledLinks = new Array();
+var forwardsConfirmMsg = '';
+var backConfirmMsg = '';
+var hasSubmitted = false;
+var keyspressed = '';
+var qlrOk = 'Y';
+var invalidQuestions = new Array();
+var calendarPagePath = '/TestFilter/html/calendar.html';
+var calendarPopup = '	<div id="toolbar" onmouseover="this.style.cursor = \'pointer\'" style="height: 20px; width:197px;  ">		<div style="height: 20px; background: rgb(126, 192, 233) url(/TestFilter/images/toolBarBlueGradient.gif) repeat-x scroll 0% 0%; float: left; width: 175px; " onmousedown="try {dragStart(event, \'FloatCalendarDiv\');} catch (e){}">&nbsp;<\\/div>		<div style="background-color: #ffffff;border-top: 2px solid rgb(170, 220, 250); border-right: 2px solid rgb(126, 192, 233); float: left; color: rgb(126, 192, 233); font-family: Arial; text-align: center; width: 20px; height: 18px;" onclick="parentNode.parentNode.style.display = \'none\';" >X<\\/div>		<div style="clear: both"><\\/div>	<\\/div>	<div style="color: #4444BB; font-family: Arial; height:92%; width:100%;">		<iframe id="calendarIframe"  src="javascript:false;" style="height:100%; width:100%; color: #FFFFFF;" scrolling="no" frameBorder="0"			>		    <p>Your browser does not support iframes.<\\/p>		<\\/iframe>	<\\/div>';
+var helpPagePath = '/TestFilter/html/help.html';
+var imageDirPath = '/TestFilter/images/';
+var popupParams = '';
+var clientSideValidation = true;
+var calendars = [];
+var currentX = 390;
+var currentY = 650;
+var SORT_COLUMN_INDEX;
+var CURRENT_YEAR = 2016;
+var CURRENT_THEME = '';
+var focusValue = '';
+var MessagePosition = 'After Answer';
+var MessageTargetId = '';
+var InfoMessagePosition = 'Do Not Show';
+var InfoMessageTargetId = '';
+var WarningMessagePosition = 'Do Not Show';
+var WarningMessageTargetId = '';
+var ShowOneMessage = 'Y';
+var MessagesSeparator = '<br/>';
+var MessagesOrder = 'Errors, Warnings, Info';
+var MandMessage = 'Please answer all the required questions marked with a $$QUESTION_CONSTRAINT$';
+var ValidationMessage = 'Please enter a valid value';
+var InvalidUploadTypeMessage = 'The valid file types you are allowed to upload are: $$QUESTION_CONSTRAINT$';
+var InvalidMaxFileSizeMessage = 'The maximum file size allowed is $$QUESTION_CONSTRAINT$k';
+var InvalidAlphaNumericMessage = 'Please re-enter using letters and numbers';
+var InvalidAlphaMessage = 'Please re-enter using letters';
+var InvalidNumMessage = 'Please enter a valid number';
+var InvalidDecimalMessage = 'Please enter a valid decimal number';
+var InvalidDateMessage = 'Please enter a valid date in the form: $$QUESTION_CONSTRAINT$';
+var InvalidTimeMessage = 'Please enter a valid time in the form: $$QUESTION_CONSTRAINT$';
+var InvalidMaxValueMessage = 'The maximum value is $$QUESTION_CONSTRAINT$';
+var InvalidMinValueMessage = 'The minimum value is $$QUESTION_CONSTRAINT$';
+var InvalidMaxLengthMessage = 'The maximum length is $$QUESTION_CONSTRAINT$';
+var InvalidMinLengthMessage = 'The minimum length is $$QUESTION_CONSTRAINT$';
+var InvalidDaysInMonthMessage = 'There are not that many days in the specified month';
+var InvalidLeapYearMessage = 'The specified year is not a leap year';
+var InvalidMaxDateMessage = 'The latest date is $$QUESTION_CONSTRAINT$';
+var InvalidMinDateMessage = 'The earliest date is $$QUESTION_CONSTRAINT$';
+//]]>
+</script>
+
+<script type="text/javascript" src="/TestFilter/html/js/calendar1.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/jsep.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/spellcheck-caller.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_ajax.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_transferable_list.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_validation.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_help.js?version_5.4.1__5"></script>
+<script type="text/javascript" src="/TestFilter/html/js/connect_divs.js?version_5.4.1__5"></script>
+
+
+        
+
+    </head>
+    <body style="margin:0px;" class="BrowserWindow">
+
+
+        <!-- UNCOMMENT IFRAME IF USING AUTOCOMPLETE - PROVIDES WORK-AROUND FOR IE6 ISSUE -->
+    <!--iframe id="ec_suggest_iframe" style="position:absolute; left:0; top:0px; width:0px; height: 0px; " ></iframe-->
+    <form id="form1" method="post" action="servletcontroller" onsubmit="return false;">
+      <div><input type="hidden" name="MODE"/></div>
+      
+      	<div><input type="hidden" name="x3dbe63e1-542c-41c4-a310-8daf1df3d782" value="25782d9a-fe54-41ec-a213-7eabb8b7e8e2"/></div>
+      
+      <div><input type="hidden" name="MENUSTATE"/></div>
+
+	 <!-- don't show the branding in a popup -->
+	    <div style="background-image: url(/TestFilter/images/edgeBanner.jpg); width: 100%; height: 150px"></div>
+	
+      <!-- To center the contents of your form, set style="text-align:center;" on the form tag (works in IE), 
+          and style="margin-left:auto; margin-right:auto;" on the following table (works in Mozilla) -->
+          
+              <div style="width: 100%">
+                      
+                      
+          
+             <div style="display: none;"><input type="hidden" name="DEVICE_SIZE_INFO" value=""/></div><div style="clear: both" class="GlobalFont Color1  " id="EDGE_CONNECT_PROCESS"><div style="clear: both; width: 100%"></div><div style="clear: both" id="EDGE_CONNECT_PHASE"><div style="clear: both; width: 100%"><div style="clear: left;" id="row_HEAD_B0C2E252A313E33B577"><div id="p1_HEAD_B0C2E252A313E33B577" style="text-align: left; ; float: left;width: 100.0%;" class="VLargeFont Color2 Bold"><div style="padding: 4px">Logged In. Cookie :  JSESSIONID=17se7sfvqlfey10ww8d64pihc9; WSASID=null</div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div><div style="clear: both; height: 0px; overflow: hidden" class="clearBoth"></div></div>
+          
+                
+                    <div style="clear:both"></div>
+                
+              </div>
+               
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+
+forwardsConfirmMsg="";
+backConfirmMsg="";
+MANDCHAR='*';
+
+function initForm(p_namespace) {
+if ( null == p_namespace ) p_namespace = '';
+if ( beforeInitForm(p_namespace) == false ) return ;
+showECForm(p_namespace);
+showServerSideValidationMessagesPopup(p_namespace);
+afterInitForm(p_namespace);
+}
+var tid = setInterval( function () { 
+    if ( document.readyState !== 'complete' ) return; 
+    clearInterval( tid );   
+    initForm('');
+
+}, 100 );
+
+function showECForm(p_ns){
+}
+function hideECForm(p_ns, p_mode, p_scroll, p_id){
+return true;}
+//]]>
+
+</script>
+
+
+
+  
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+
+</script>
+</body>
+</html>
+
+
+
+[2016-10-17 17:36:41.031], ==============================================
+[2016-10-17 17:36:41.032], ['DEBUG_6' '17se7sfvqlfey10ww8d64pihc9' 'Test' 'AddSecurityHeader' 'Home Page' 'none'], Application Server session timeout set to: 1800
